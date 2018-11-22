@@ -1,0 +1,16 @@
+1) Dining Philosopher's Problem, with potential deadlock (dpp_DL.c)
+
+	This solution for the DP problem is prone to circular deadlocks. However, it is extremely unlikely to encounter the same in common practice. The first test run of the typescript file "typescript_dpp_DL" shows the program execute as required. In order to showcase the program's weakness, we insert a sleep statement between the 2 mutex_lock statements (one for each chopstick) and try running the program. As expected, we get into a circular deadlock (as demonstrated in the second test run of the same typescript file).
+
+2) Dining Philosopher's Problem, deadlock free solutions (dpp_DLF)
+	
+	a) Solution 1 - using Mutex (dpp_DLF_mutex.c)
+	We put both the chopstick acquiring wait statements (locks implemented as semaphores) within a new common mutex (also implementes as semaphore). Thus, only one philosopher will be able to get his chopsticks at one instant, and that too only if both of them are simultaneously available. The process of allocation of chopsticks and also the lock and unlock of the mutex are present in an infinite loop. This ensures that a blocked philosopher does not prevent another philosopher from getting his/her chopsticks.  
+
+	b) Solution 2 - using Semaphore (dpp_DLF_semaphore.c)
+	Here we put both the chopstick acquiring mutex_lock statements within a semaphore's critical section. The semaphore can be initialized to any value between 1 and n-1 (both included), however, best performance is empirically observed when initialized a value close to sqrt(n). This serves to prevent the circular deadlock (as not all of the n philosophers can simultaneously pick exactly 1 chopstick) and gives required output, even when we give a sleep between the 2 mutex_lock statements.
+
+	c) Solution 3 - Odd Even Solution (dpp_DLF_oddeven.c)
+	We make a change to the deadlock prone solution by giving different order of attainment of chopsticks for odd and even numbered philosophers. This serves to break the tie and gives required output, even when we give a sleep between the 2 mutex_lock statements.
+
+	A single typescript file has been provided for the deadlock free solutions. The second run of each code is performed after giving a sleep statement between the mutex locks. Still, as expected, we do not encounter a deadlock.

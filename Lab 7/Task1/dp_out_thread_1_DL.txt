@@ -1,0 +1,2 @@
+milliseconds elapsed:      2 #  Round:   1 #  entering THINKING state
+milliseconds elapsed:     66 #  Round:   1 #  entering HUNGRY state

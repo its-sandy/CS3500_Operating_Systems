@@ -1,0 +1,288 @@
+Script started on Sunday 30 September 2018 10:03:28 PM IST
+[1m[7m%[27m[1m[0m                                                                                                                                                     [0m[27m[24m[J[34m~/D/C/L/T/CS16B107 [K[?1h=[0m[27m[24m[J[34m~/D/C/L/T/CS16B107 [1m[31m❯[33m❯[32m❯[39m[0m [K[?2004h[0m[27m[24m[J[34m~/D/C/L/T/CS16B107 [1m[31m❯[33m❯[32m❯[39m[0m [Kmmake[?1l>[?2004l[0m[27m[24m[J[34m~/D/C/L/T/CS16B107 [1m[31m❯[33m❯[32m❯[39m[0m make[K
+gcc santa.c -o santa -lpthread
+run as ./santa -n numOfElves
+gcc pzm.c -o pzm -lpthread
+run as ./pzm -m M -s S -d D -z Z -c C -b B -u U -e E -h H -r R -n N
+[1m[7m%[27m[1m[0m                                                                                                                                                     [0m[27m[24m[J[34m~/D/C/L/T/CS16B107 [1m[31m❯[33m❯[32m❯[39m[0m [K[?1h=[0m[27m[24m[J[34m~/D/C/L/T/CS16B107 [1m[31m❯[33m❯[32m❯[39m[0m [K[?2004h[0m[27m[24m[J[34m~/D/C/L/T/CS16B107 [1m[31m❯[33m❯[32m❯[39m[0m [Kmakescript typescript_bonus[23Dclear                  [18Dr script typescript_task2[21D[P[20C [22D./santa -n 31         [9D01 2[?1l>[?2004l[0m[27m[24m[J[34m~/D/C/L/T/CS16B107 [1m[31m❯[33m❯[32m❯[39m[0m ./santa -n 32[K
+REINDEER with ID = 1 added. Current waiting reindeer count = 1
+ELF with ID = 1 added. Current waiting elf count = 1
+ELF with ID = 2 added. Current waiting elf count = 2
+ELF with ID = 3 added. Current waiting elf count = 3
+SANTA helps elves
+ELF with ID = 1 gets help
+ELF with ID = 2 gets help
+ELF with ID = 3 gets help
+ELF with ID = 4 added. Current waiting elf count = 1
+REINDEER with ID = 2 added. Current waiting reindeer count = 2
+REINDEER with ID = 3 added. Current waiting reindeer count = 3
+REINDEER with ID = 4 added. Current waiting reindeer count = 4
+REINDEER with ID = 5 added. Current waiting reindeer count = 5
+REINDEER with ID = 6 added. Current waiting reindeer count = 6
+ELF with ID = 5 added. Current waiting elf count = 2
+ELF with ID = 6 added. Current waiting elf count = 3
+SANTA helps elves
+ELF with ID = 6 gets help
+ELF with ID = 4 gets help
+REINDEER with ID = 7 added. Current waiting reindeer count = 7
+REINDEER with ID = 8 added. Current waiting reindeer count = 8
+ELF with ID = 5 gets help
+ELF with ID = 7 added. Current waiting elf count = 1
+ELF with ID = 8 added. Current waiting elf count = 2
+ELF with ID = 9 added. Current waiting elf count = 3
+SANTA helps elves
+ELF with ID = 9 gets help
+ELF with ID = 8 gets help
+ELF with ID = 7 gets help
+ELF with ID = 10 added. Current waiting elf count = 1
+ELF with ID = 11 added. Current waiting elf count = 2
+ELF with ID = 12 added. Current waiting elf count = 3
+SANTA helps elves
+ELF with ID = 12 gets help
+ELF with ID = 11 gets help
+ELF with ID = 10 gets help
+ELF with ID = 13 added. Current waiting elf count = 1
+ELF with ID = 14 added. Current waiting elf count = 2
+ELF with ID = 15 added. Current waiting elf count = 3
+SANTA helps elves
+ELF with ID = 15 gets help
+ELF with ID = 14 gets help
+ELF with ID = 13 gets help
+ELF with ID = 16 added. Current waiting elf count = 1
+ELF with ID = 17 added. Current waiting elf count = 2
+ELF with ID = 18 added. Current waiting elf count = 3
+SANTA helps elves
+ELF with ID = 18 gets help
+ELF with ID = 16 gets help
+ELF with ID = 17 gets help
+ELF with ID = 19 added. Current waiting elf count = 1
+ELF with ID = 20 added. Current waiting elf count = 2
+ELF with ID = 21 added. Current waiting elf count = 3
+SANTA helps elves
+ELF with ID = 21 gets help
+ELF with ID = 19 gets help
+ELF with ID = 20 gets help
+ELF with ID = 22 added. Current waiting elf count = 1
+ELF with ID = 23 added. Current waiting elf count = 2
+ELF with ID = 24 added. Current waiting elf count = 3
+SANTA helps elves
+ELF with ID = 24 gets help
+ELF with ID = 22 gets help
+ELF with ID = 23 gets help
+ELF with ID = 25 added. Current waiting elf count = 1
+ELF with ID = 26 added. Current waiting elf count = 2
+ELF with ID = 27 added. Current waiting elf count = 3
+SANTA helps elves
+ELF with ID = 27 gets help
+ELF with ID = 26 gets help
+ELF with ID = 25 gets help
+ELF with ID = 28 added. Current waiting elf count = 1
+ELF with ID = 29 added. Current waiting elf count = 2
+ELF with ID = 30 added. Current waiting elf count = 3
+SANTA helps elves
+ELF with ID = 29 gets help
+ELF with ID = 30 gets help
+ELF with ID = 28 gets help
+REINDEER with ID = 9 added. Current waiting reindeer count = 9
+ELF with ID = 31 added. Current waiting elf count = 1
+SANTA prepares sleigh
+REINDEER with ID = 1 hitched
+REINDEER with ID = 2 hitched
+REINDEER with ID = 3 hitched
+REINDEER with ID = 4 hitched
+REINDEER with ID = 5 hitched
+REINDEER with ID = 6 hitched
+REINDEER with ID = 7 hitched
+REINDEER with ID = 8 hitched
+ELF with ID = 32 added. Current waiting elf count = 2
+REINDEER with ID = 9 hitched
+Program over...
+left out elves = 2
+[1m[7m%[27m[1m[0m                                                                                                                                                     [0m[27m[24m[J[34m~/D/C/L/T/CS16B107 [1m[31m❯[33m❯[32m❯[39m[0m [K[?1h=[0m[27m[24m[J[34m~/D/C/L/T/CS16B107 [1m[31m❯[33m❯[32m❯[39m[0m [K[?2004h[0m[27m[24m[J[34m~/D/C/L/T/CS16B107 [1m[31m❯[33m❯[32m❯[39m[0m [K./santa -n 32 1[?1l>[?2004l[0m[27m[24m[J[34m~/D/C/L/T/CS16B107 [1m[31m❯[33m❯[32m❯[39m[0m ./santa -n 31[K
+REINDEER with ID = 1 added. Current waiting reindeer count = 1
+ELF with ID = 1 added. Current waiting elf count = 1
+ELF with ID = 2 added. Current waiting elf count = 2
+ELF with ID = 3 added. Current waiting elf count = 3
+SANTA helps elves
+ELF with ID = 1 gets help
+ELF with ID = 2 gets help
+ELF with ID = 3 gets help
+REINDEER with ID = 3 added. Current waiting reindeer count = 2
+ELF with ID = 4 added. Current waiting elf count = 1
+ELF with ID = 7 added. Current waiting elf count = 2
+ELF with ID = 8 added. Current waiting elf count = 3
+SANTA helps elves
+ELF with ID = 4 gets help
+REINDEER with ID = 2 added. Current waiting reindeer count = 3
+ELF with ID = 8 gets help
+ELF with ID = 7 gets help
+ELF with ID = 5 added. Current waiting elf count = 1
+ELF with ID = 6 added. Current waiting elf count = 2
+REINDEER with ID = 4 added. Current waiting reindeer count = 4
+REINDEER with ID = 5 added. Current waiting reindeer count = 5
+ELF with ID = 10 added. Current waiting elf count = 3
+SANTA helps elves
+ELF with ID = 10 gets help
+ELF with ID = 5 gets help
+REINDEER with ID = 6 added. Current waiting reindeer count = 6
+ELF with ID = 6 gets help
+ELF with ID = 9 added. Current waiting elf count = 1
+ELF with ID = 11 added. Current waiting elf count = 2
+ELF with ID = 12 added. Current waiting elf count = 3
+SANTA helps elves
+ELF with ID = 11 gets help
+ELF with ID = 12 gets help
+ELF with ID = 9 gets help
+ELF with ID = 13 added. Current waiting elf count = 1
+ELF with ID = 14 added. Current waiting elf count = 2
+ELF with ID = 15 added. Current waiting elf count = 3
+SANTA helps elves
+ELF with ID = 13 gets help
+REINDEER with ID = 7 added. Current waiting reindeer count = 7
+REINDEER with ID = 8 added. Current waiting reindeer count = 8
+ELF with ID = 15 gets help
+ELF with ID = 14 gets help
+ELF with ID = 16 added. Current waiting elf count = 1
+ELF with ID = 17 added. Current waiting elf count = 2
+ELF with ID = 18 added. Current waiting elf count = 3
+SANTA helps elves
+ELF with ID = 18 gets help
+ELF with ID = 17 gets help
+ELF with ID = 16 gets help
+ELF with ID = 21 added. Current waiting elf count = 1
+ELF with ID = 22 added. Current waiting elf count = 2
+ELF with ID = 20 added. Current waiting elf count = 3
+SANTA helps elves
+ELF with ID = 21 gets help
+ELF with ID = 22 gets help
+ELF with ID = 20 gets help
+ELF with ID = 19 added. Current waiting elf count = 1
+ELF with ID = 23 added. Current waiting elf count = 2
+ELF with ID = 24 added. Current waiting elf count = 3
+SANTA helps elves
+ELF with ID = 24 gets help
+ELF with ID = 23 gets help
+REINDEER with ID = 9 added. Current waiting reindeer count = 9
+SANTA prepares sleigh
+REINDEER with ID = 5 hitched
+REINDEER with ID = 7 hitched
+REINDEER with ID = 4 hitched
+REINDEER with ID = 8 hitched
+REINDEER with ID = 6 hitched
+REINDEER with ID = 1 hitched
+REINDEER with ID = 3 hitched
+REINDEER with ID = 9 hitched
+REINDEER with ID = 2 hitched
+ELF with ID = 19 gets help
+ELF with ID = 26 added. Current waiting elf count = 1
+ELF with ID = 27 added. Current waiting elf count = 2
+ELF with ID = 29 added. Current waiting elf count = 3
+SANTA helps elves
+ELF with ID = 26 gets help
+ELF with ID = 27 gets help
+ELF with ID = 29 gets help
+ELF with ID = 30 added. Current waiting elf count = 1
+ELF with ID = 28 added. Current waiting elf count = 2
+ELF with ID = 25 added. Current waiting elf count = 3
+SANTA helps elves
+ELF with ID = 28 gets help
+ELF with ID = 25 gets help
+ELF with ID = 30 gets help
+ELF with ID = 31 added. Current waiting elf count = 1
+Program over...
+left out elves = 1
+[1m[7m%[27m[1m[0m                                                                                                                                                     [0m[27m[24m[J[34m~/D/C/L/T/CS16B107 [1m[31m❯[33m❯[32m❯[39m[0m [K[?1h=[0m[27m[24m[J[34m~/D/C/L/T/CS16B107 [1m[31m❯[33m❯[32m❯[39m[0m [K[?2004h[0m[27m[24m[J[34m~/D/C/L/T/CS16B107 [1m[31m❯[33m❯[32m❯[39m[0m [K./santa -n 31 0[?1l>[?2004l[0m[27m[24m[J[34m~/D/C/L/T/CS16B107 [1m[31m❯[33m❯[32m❯[39m[0m ./santa -n 30[K
+ELF with ID = 1 added. Current waiting elf count = 1
+ELF with ID = 2 added. Current waiting elf count = 2
+ELF with ID = 3 added. Current waiting elf count = 3
+SANTA helps elves
+ELF with ID = 1 gets help
+ELF with ID = 2 gets help
+ELF with ID = 3 gets help
+ELF with ID = 4 added. Current waiting elf count = 1
+ELF with ID = 5 added. Current waiting elf count = 2
+REINDEER with ID = 1 added. Current waiting reindeer count = 1
+ELF with ID = 6 added. Current waiting elf count = 3
+SANTA helps elves
+ELF with ID = 4 gets help
+REINDEER with ID = 3 added. Current waiting reindeer count = 2
+REINDEER with ID = 4 added. Current waiting reindeer count = 3
+REINDEER with ID = 5 added. Current waiting reindeer count = 4
+REINDEER with ID = 6 added. Current waiting reindeer count = 5
+REINDEER with ID = 7 added. Current waiting reindeer count = 6
+REINDEER with ID = 2 added. Current waiting reindeer count = 7
+REINDEER with ID = 8 added. Current waiting reindeer count = 8
+REINDEER with ID = 9 added. Current waiting reindeer count = 9
+SANTA prepares sleigh
+REINDEER with ID = 1 hitched
+REINDEER with ID = 7 hitched
+REINDEER with ID = 5 hitched
+REINDEER with ID = 6 hitched
+REINDEER with ID = 4 hitched
+REINDEER with ID = 2 hitched
+REINDEER with ID = 3 hitched
+ELF with ID = 6 gets help
+REINDEER with ID = 8 hitched
+ELF with ID = 5 gets help
+ELF with ID = 7 added. Current waiting elf count = 1
+ELF with ID = 8 added. Current waiting elf count = 2
+ELF with ID = 9 added. Current waiting elf count = 3
+SANTA helps elves
+REINDEER with ID = 9 hitched
+ELF with ID = 9 gets help
+ELF with ID = 7 gets help
+ELF with ID = 8 gets help
+ELF with ID = 10 added. Current waiting elf count = 1
+ELF with ID = 11 added. Current waiting elf count = 2
+ELF with ID = 12 added. Current waiting elf count = 3
+SANTA helps elves
+ELF with ID = 11 gets help
+ELF with ID = 12 gets help
+ELF with ID = 10 gets help
+ELF with ID = 13 added. Current waiting elf count = 1
+ELF with ID = 14 added. Current waiting elf count = 2
+ELF with ID = 15 added. Current waiting elf count = 3
+SANTA helps elves
+ELF with ID = 13 gets help
+ELF with ID = 14 gets help
+ELF with ID = 15 gets help
+ELF with ID = 16 added. Current waiting elf count = 1
+ELF with ID = 17 added. Current waiting elf count = 2
+ELF with ID = 18 added. Current waiting elf count = 3
+SANTA helps elves
+ELF with ID = 16 gets help
+ELF with ID = 18 gets help
+ELF with ID = 17 gets help
+ELF with ID = 19 added. Current waiting elf count = 1
+ELF with ID = 20 added. Current waiting elf count = 2
+ELF with ID = 21 added. Current waiting elf count = 3
+SANTA helps elves
+ELF with ID = 19 gets help
+ELF with ID = 21 gets help
+ELF with ID = 20 gets help
+ELF with ID = 22 added. Current waiting elf count = 1
+ELF with ID = 23 added. Current waiting elf count = 2
+ELF with ID = 24 added. Current waiting elf count = 3
+SANTA helps elves
+ELF with ID = 22 gets help
+ELF with ID = 24 gets help
+ELF with ID = 23 gets help
+ELF with ID = 25 added. Current waiting elf count = 1
+ELF with ID = 26 added. Current waiting elf count = 2
+ELF with ID = 27 added. Current waiting elf count = 3
+SANTA helps elves
+ELF with ID = 25 gets help
+ELF with ID = 27 gets help
+ELF with ID = 26 gets help
+ELF with ID = 28 added. Current waiting elf count = 1
+ELF with ID = 29 added. Current waiting elf count = 2
+ELF with ID = 30 added. Current waiting elf count = 3
+SANTA helps elves
+ELF with ID = 28 gets help
+ELF with ID = 30 gets help
+ELF with ID = 29 gets help
+Program over...
+left out elves = 0
+[1m[7m%[27m[1m[0m                                                                                                                                                     [0m[27m[24m[J[34m~/D/C/L/T/CS16B107 [1m[31m❯[33m❯[32m❯[39m[0m [K[?1h=[0m[27m[24m[J[34m~/D/C/L/T/CS16B107 [1m[31m❯[33m❯[32m❯[39m[0m [K[?2004h[0m[27m[24m[J[34m~/D/C/L/T/CS16B107 [1m[31m❯[33m❯[32m❯[39m[0m [K[?2004l
+
+Script done on Sunday 30 September 2018 10:03:48 PM IST

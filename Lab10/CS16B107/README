@@ -1,0 +1,10 @@
+1. First 2 blocks are allocated to store directory structure and the 3rd block is used for storing the free vector. Each directory structure block has 6 entries of the linear list.
+
+2. Writing to files and also extension of file size is done only when the required number of blocks are available. Else, file is retained at original state.
+
+3. We assume that sub-directories can only be created in the root directory
+
+4. When the program begins, we create a copy of the disk_file as a string object and make changes to it. All changes, except changes to free vector, are made in this copy during the course of execution. Finally, before program terminates, we update the free vector and overwrite the disk_file with the updated copy.
+
+5. An index table is created for all files irrespective of the number of blocks they have.
+

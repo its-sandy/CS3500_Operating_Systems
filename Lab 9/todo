@@ -1,0 +1,17 @@
+should each process be loaded as pages or as complete processes.
+can you assign some pages of a process to MM and some to VM.
+while loading a bunch of processes, if there is no space for one of them but there is enough space for processes further up in the list, what should be done?
+
+how should swap be done from VM to MM? ... should u require a temporary storage space for the same?	
+
+common VM for all processes right? So, 2 processes can access the same address (provided it falls into their Logical address space limits) ... should there be a common dictionary for all processes?
+
+what should be there in page table?
+
+what if VM has no space during swapout
+
+can any process size be larger than MM or VM?
+
+can u run a process in VM?
+
+what about print <memloc> <length>

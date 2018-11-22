@@ -1,0 +1,54 @@
+ls /
+printfreevector
+open /file1.c
+printfreevector
+open /file2.c
+printfreevector
+open /file3.c
+printfreevector
+open /file4.c
+printfreevector
+open /file5.c
+printfreevector
+open /file6.c
+printfreevector
+createdir /dir1
+printfreevector
+createdir /dir2
+printfreevector
+createdir /dir3
+printfreevector
+open /dir1/file1.c
+printfreevector
+open /dir1/file2.c
+printfreevector
+open /dir1/file3.c
+printfreevector
+open /file7.c
+printfreevector
+seekread /file1.c 10
+write /file1.c ABCDEFGHIJKLMNOPQRSTUVWXYZ12345678ABCDEFGHIJKLMNOPQRSTUVWXYZ12345678
+printfreevector
+write /file1.c ABCDEFGHIJKLMNOPQRSTUVWXYZ12345678ABCDEFGHIJKLMNOPQRSTUVWXYZ12345678
+printfreevector
+seekwrite /file1.c 10
+write /file1.c AAAAAAAAAAAAAAAAAAAAAAA
+printfreevector
+seekwrite /file1.c 0
+read /file1.c 200
+ls /
+ls /dir1
+ls /dir2
+ls /file1.c
+delete /file2.c
+printfreevector
+delete /dir2
+printfreevector
+write /file3.c ABCDEFGHIJKLMNOPQRSTUVWXYZ12345678ABCDEFGHIJKLMNOPQRSTUVWXYZ12345678
+write /file3.c ABCDEFGHIJKLMNOPQRSTUVWXYZ12345678ABCDEFGHIJKLMNOPQRSTUVWXYZ12345678
+write /file3.c ABCDEFGHIJKLMNOPQRSTUVWXYZ12345678ABCDEFGHIJKLMNOPQRSTUVWXYZ12345678
+write /file3.c ABCDEFGHIJKLMNOPQRSTUVWXYZ12345678ABCDEFGHIJKLMNOPQRSTUVWXYZ12345678
+write /file3.c ABCDEFGHIJKLMNOPQRSTUVWXYZ12345678ABCDEFGHIJKLMNOPQRSTUVWXYZ12345678
+write /file3.c ABCDEFGHIJKLMNOPQRSTUVWXYZ12345678ABCDEFGHIJKLMNOPQRSTUVWXYZ12345678
+write /file3.c ABCDEFGHIJKLMNOPQRSTUVWXYZ12345678ABCDEFGHIJKLMNOPQRSTUVWXYZ12345678
+write /file3.c ABCDEFGHIJKLMNOPQRSTUVWXYZ12345678ABCDEFGHIJKLMNOPQRSTUVWXYZ12345678

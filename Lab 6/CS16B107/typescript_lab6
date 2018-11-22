@@ -1,0 +1,137 @@
+Script started on Monday 10 September 2018 10:12:49 PM IST
+[1m[7m%[27m[1m[0m                                                                                                                                                     [0m[27m[24m[J[34m~/D/C/Lab6 [K[?1h=[0m[27m[24m[J[34m~/D/C/Lab6 [1m[31m❯[33m❯[32m❯[39m[0m [K[?2004h[0m[27m[24m[J[34m~/D/C/Lab6 [1m[31m❯[33m❯[32m❯[39m[0m [Kscript typescript_lab6[22Dclear                 [17D./lab6 -p 3 -c 2 -s 15 -n 10[28Dgcc -o lab6 lab6.c -lpthread[?1l>[?2004l[0m[27m[24m[J[34m~/D/C/Lab6 [1m[31m❯[33m❯[32m❯[39m[0m gcc -o lab6 lab6.c -lpthread[K
+[1m[7m%[27m[1m[0m                                                                                                                                                     [0m[27m[24m[J[34m~/D/C/Lab6 [1m[31m❯[33m❯[32m❯[39m[0m [K[?1h=[0m[27m[24m[J[34m~/D/C/Lab6 [1m[31m❯[33m❯[32m❯[39m[0m [K[?2004h[0m[27m[24m[J[34m~/D/C/Lab6 [1m[31m❯[33m❯[32m❯[39m[0m [Kgcc -o lab6 lab6.c -lpthread[28Dscript typescript_lab6      [22Dclear                 [17D./lab6 -p 3 -c 2 -s 15 -n 10[?1l>[?2004l[0m[27m[24m[J[34m~/D/C/Lab6 [1m[31m❯[33m❯[32m❯[39m[0m ./lab6 -p 3 -c 2 -s 15 -n 10[K
+Producer Thread #: 2; Item #: 1; in value: 0; Added Number: 4573
+Producer Thread #: 1; Item #: 1; in value: 1; Added Number: 6985
+Producer Thread #: 3; Item #: 1; in value: 2; Added Number: 1624
+Consumer Thread #: 1; Item #: 1; out value: 0; Read Number: 4573
+Consumer Thread #: 2; Item #: 1; out value: 1; Read Number: 6985
+Consumer Thread #: 1; Item #: 2; out value: 2; Read Number: 1624
+Producer Thread #: 2; Item #: 2; in value: 3; Added Number: 7535
+Consumer Thread #: 2; Item #: 2; out value: 3; Read Number: 7535
+Producer Thread #: 1; Item #: 2; in value: 4; Added Number: 1755
+Producer Thread #: 3; Item #: 2; in value: 5; Added Number: 6271
+Consumer Thread #: 2; Item #: 3; out value: 4; Read Number: 1755
+Producer Thread #: 3; Item #: 3; in value: 6; Added Number: 3078
+Consumer Thread #: 1; Item #: 3; out value: 5; Read Number: 6271
+Consumer Thread #: 2; Item #: 4; out value: 6; Read Number: 3078
+Producer Thread #: 2; Item #: 3; in value: 7; Added Number: 1758
+Producer Thread #: 3; Item #: 4; in value: 8; Added Number: 2304
+Producer Thread #: 1; Item #: 3; in value: 9; Added Number: 9635
+Producer Thread #: 1; Item #: 4; in value: 10; Added Number: 5320
+Producer Thread #: 2; Item #: 4; in value: 11; Added Number: 5364
+Producer Thread #: 1; Item #: 5; in value: 12; Added Number: 4353
+Producer Thread #: 1; Item #: 6; in value: 13; Added Number: 3016
+Producer Thread #: 2; Item #: 5; in value: 14; Added Number: 9555
+Producer Thread #: 3; Item #: 5; in value: 0; Added Number: 9508
+Producer Thread #: 1; Item #: 7; in value: 1; Added Number: 3093
+Consumer Thread #: 2; Item #: 5; out value: 7; Read Number: 1758
+Consumer Thread #: 1; Item #: 4; out value: 8; Read Number: 2304
+Producer Thread #: 3; Item #: 6; in value: 2; Added Number: 6321
+Producer Thread #: 3; Item #: 7; in value: 3; Added Number: 8740
+Producer Thread #: 2; Item #: 6; in value: 4; Added Number: 4950
+Producer Thread #: 1; Item #: 8; in value: 5; Added Number: 7610
+Producer Thread #: 1; Item #: 9; in value: 6; Added Number: 4976
+Producer Thread #: 3; Item #: 8; in value: 7; Added Number: 3990
+Producer Thread #: 3; Item #: 9; in value: 8; Added Number: 2836
+Consumer Thread #: 1; Item #: 5; out value: 9; Read Number: 9635
+Consumer Thread #: 2; Item #: 6; out value: 10; Read Number: 5320
+Consumer Thread #: 1; Item #: 6; out value: 11; Read Number: 5364
+Producer Thread #: 1; Item #: 10; in value: 9; Added Number: 5276
+Consumer Thread #: 2; Item #: 7; out value: 12; Read Number: 4353
+Producer Thread #: 2; Item #: 7; in value: 10; Added Number: 4348
+Producer Thread #: 3; Item #: 10; in value: 11; Added Number: 1125
+Consumer Thread #: 2; Item #: 8; out value: 13; Read Number: 3016
+Producer Thread #: 2; Item #: 8; in value: 12; Added Number: 7327
+Consumer Thread #: 2; Item #: 9; out value: 14; Read Number: 9555
+Producer Thread #: 2; Item #: 9; in value: 13; Added Number: 6987
+Consumer Thread #: 2; Item #: 10; out value: 0; Read Number: 9508
+Producer Thread #: 2; Item #: 10; in value: 14; Added Number: 9613
+Consumer Thread #: 1; Item #: 7; out value: 1; Read Number: 3093
+Consumer Thread #: 1; Item #: 8; out value: 2; Read Number: 6321
+Consumer Thread #: 1; Item #: 9; out value: 3; Read Number: 8740
+Consumer Thread #: 1; Item #: 10; out value: 4; Read Number: 4950
+Program over...
+[1m[7m%[27m[1m[0m                                                                                                                                                     [0m[27m[24m[J[34m~/D/C/Lab6 [1m[31m❯[33m❯[32m❯[39m[0m [K[?1h=[0m[27m[24m[J[34m~/D/C/Lab6 [1m[31m❯[33m❯[32m❯[39m[0m [K[?2004h[0m[27m[24m[J[34m~/D/C/Lab6 [1m[31m❯[33m❯[32m❯[39m[0m [K./lab6 -p 3 -c 2 -s 15 -n 10[28Dgcc -o lab6 lab6.c -lpthread[28D./lab6 -p 3 -c 2 -s 15 -n 10[28D                            [28D./lab6 -p 3 -c 2 -s 15 -n 10[28Dgcc -o lab6 lab6.c -lpthread[28D./lab6 -p 3 -c 2 -s 15 -n 10[28Dgcc -o lab6 lab6.c -lpthread[28Dscript typescript_lab6      [22Dclear                 [17Dtypescript typescript_lab6[26D./lab6 -p 30 -c 30 -s 100 -n 30[21D4 -c 4 -s 10 -n 8    [18D2[4C3[12C[?1l>[?2004l[0m[27m[24m[J[34m~/D/C/Lab6 [1m[31m❯[33m❯[32m❯[39m[0m ./lab6 -p 2 -c 3 -s 10 -n 8[K[1C
+Producer Thread #: 1; Item #: 1; in value: 0; Added Number: 8624
+Producer Thread #: 2; Item #: 1; in value: 1; Added Number: 5777
+Consumer Thread #: 1; Item #: 1; out value: 0; Read Number: 8624
+Producer Thread #: 1; Item #: 2; in value: 2; Added Number: 7143
+Consumer Thread #: 3; Item #: 1; out value: 1; Read Number: 5777
+Consumer Thread #: 2; Item #: 1; out value: 2; Read Number: 7143
+Producer Thread #: 1; Item #: 3; in value: 3; Added Number: 3985
+Producer Thread #: 1; Item #: 4; in value: 4; Added Number: 3339
+Consumer Thread #: 2; Item #: 2; out value: 3; Read Number: 3985
+Consumer Thread #: 3; Item #: 2; out value: 4; Read Number: 3339
+Producer Thread #: 1; Item #: 5; in value: 5; Added Number: 7218
+Consumer Thread #: 3; Item #: 3; out value: 5; Read Number: 7218
+Producer Thread #: 2; Item #: 2; in value: 6; Added Number: 6797
+Consumer Thread #: 1; Item #: 2; out value: 6; Read Number: 6797
+Producer Thread #: 2; Item #: 3; in value: 7; Added Number: 5459
+Consumer Thread #: 2; Item #: 3; out value: 7; Read Number: 5459
+Producer Thread #: 1; Item #: 6; in value: 8; Added Number: 1492
+Consumer Thread #: 1; Item #: 3; out value: 8; Read Number: 1492
+Producer Thread #: 2; Item #: 4; in value: 9; Added Number: 7051
+Producer Thread #: 1; Item #: 7; in value: 0; Added Number: 7503
+Producer Thread #: 2; Item #: 5; in value: 1; Added Number: 5034
+Producer Thread #: 1; Item #: 8; in value: 2; Added Number: 3281
+Producer Thread #: 2; Item #: 6; in value: 3; Added Number: 6776
+Producer Thread #: 2; Item #: 7; in value: 4; Added Number: 5657
+Producer Thread #: 2; Item #: 8; in value: 5; Added Number: 8080
+Program over...
+[1m[7m%[27m[1m[0m                                                                                                                                                     [0m[27m[24m[J[34m~/D/C/Lab6 [1m[31m❯[33m❯[32m❯[39m[0m [K[?1h=[0m[27m[24m[J[34m~/D/C/Lab6 [1m[31m❯[33m❯[32m❯[39m[0m [K[?2004h[0m[27m[24m[J[34m~/D/C/Lab6 [1m[31m❯[33m❯[32m❯[39m[0m [K./lab6 -p 2 -c 3 -s 10 -n 8 [18D3[4C2[5C5[4C10[28Dgcc -o lab6 lab6.c -lpthread[28Dscript typescript_lab6      [22Dclear                 [17Dtypescript typescript_lab6[26D./lab6 -p 30 -c 30 -s 100 -n 30[21D4 -c 4 -s 10 -n 8    [?1l>[?2004l[0m[27m[24m[J[34m~/D/C/Lab6 [1m[31m❯[33m❯[32m❯[39m[0m ./lab6 -p 4 -c 4 -s 10 -n 8[K[1C
+Producer Thread #: 1; Item #: 1; in value: 0; Added Number: 8285
+Producer Thread #: 2; Item #: 1; in value: 1; Added Number: 5680
+Producer Thread #: 1; Item #: 2; in value: 2; Added Number: 7943
+Producer Thread #: 4; Item #: 1; in value: 3; Added Number: 7436
+Consumer Thread #: 1; Item #: 1; out value: 0; Read Number: 8285
+Consumer Thread #: 2; Item #: 1; out value: 1; Read Number: 5680
+Consumer Thread #: 3; Item #: 1; out value: 2; Read Number: 7943
+Consumer Thread #: 4; Item #: 1; out value: 3; Read Number: 7436
+Producer Thread #: 3; Item #: 1; in value: 4; Added Number: 8191
+Producer Thread #: 1; Item #: 3; in value: 5; Added Number: 5764
+Consumer Thread #: 3; Item #: 2; out value: 4; Read Number: 8191
+Consumer Thread #: 2; Item #: 2; out value: 5; Read Number: 5764
+Producer Thread #: 2; Item #: 2; in value: 6; Added Number: 7849
+Consumer Thread #: 4; Item #: 2; out value: 6; Read Number: 7849
+Producer Thread #: 4; Item #: 2; in value: 7; Added Number: 1574
+Consumer Thread #: 1; Item #: 2; out value: 7; Read Number: 1574
+Producer Thread #: 3; Item #: 2; in value: 8; Added Number: 2712
+Consumer Thread #: 3; Item #: 3; out value: 8; Read Number: 2712
+Producer Thread #: 4; Item #: 3; in value: 9; Added Number: 6049
+Consumer Thread #: 1; Item #: 3; out value: 9; Read Number: 6049
+Producer Thread #: 4; Item #: 4; in value: 0; Added Number: 3435
+Producer Thread #: 1; Item #: 4; in value: 1; Added Number: 4437
+Consumer Thread #: 4; Item #: 3; out value: 0; Read Number: 3435
+Consumer Thread #: 2; Item #: 3; out value: 1; Read Number: 4437
+Producer Thread #: 2; Item #: 3; in value: 2; Added Number: 9697
+Consumer Thread #: 4; Item #: 4; out value: 2; Read Number: 9697
+Producer Thread #: 3; Item #: 3; in value: 3; Added Number: 6743
+Consumer Thread #: 1; Item #: 4; out value: 3; Read Number: 6743
+Producer Thread #: 4; Item #: 5; in value: 4; Added Number: 3308
+Consumer Thread #: 4; Item #: 5; out value: 4; Read Number: 3308
+Producer Thread #: 2; Item #: 4; in value: 5; Added Number: 1158
+Consumer Thread #: 2; Item #: 4; out value: 5; Read Number: 1158
+Producer Thread #: 3; Item #: 4; in value: 6; Added Number: 4540
+Producer Thread #: 4; Item #: 6; in value: 7; Added Number: 1679
+Producer Thread #: 1; Item #: 5; in value: 8; Added Number: 8094
+Consumer Thread #: 1; Item #: 5; out value: 6; Read Number: 4540
+Producer Thread #: 4; Item #: 7; in value: 9; Added Number: 6083
+Producer Thread #: 4; Item #: 8; in value: 0; Added Number: 3976
+Consumer Thread #: 2; Item #: 5; out value: 7; Read Number: 1679
+Producer Thread #: 1; Item #: 6; in value: 1; Added Number: 3763
+Consumer Thread #: 3; Item #: 4; out value: 8; Read Number: 8094
+Producer Thread #: 3; Item #: 5; in value: 2; Added Number: 4215
+Producer Thread #: 2; Item #: 5; in value: 3; Added Number: 1494
+Producer Thread #: 1; Item #: 7; in value: 4; Added Number: 1192
+Producer Thread #: 3; Item #: 6; in value: 5; Added Number: 1630
+Producer Thread #: 2; Item #: 6; in value: 6; Added Number: 5932
+Producer Thread #: 3; Item #: 7; in value: 7; Added Number: 6118
+Producer Thread #: 2; Item #: 7; in value: 8; Added Number: 3062
+Consumer Thread #: 3; Item #: 5; out value: 9; Read Number: 6083
+Producer Thread #: 3; Item #: 8; in value: 9; Added Number: 6276
+Buffer Overflow
+Program over...
+[1m[7m%[27m[1m[0m                                                                                                                                                     [0m[27m[24m[J[34m~/D/C/Lab6 [1m[31m❯[33m❯[32m❯[39m[0m [K[?1h=[0m[27m[24m[J[34m~/D/C/Lab6 [1m[31m❯[33m❯[32m❯[39m[0m [K[?2004h[0m[27m[24m[J[34m~/D/C/Lab6 [1m[31m❯[33m❯[32m❯[39m[0m [K[?2004l
+
+Script done on Monday 10 September 2018 10:14:22 PM IST

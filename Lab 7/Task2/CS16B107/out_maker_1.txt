@@ -1,0 +1,102 @@
+Maker 1 Log
+maker 1 entering NAP state
+maker 1 entering MAKING PIZZA BATCH state
+Pizza maker_1_batch_1_pizza_1 produced
+maker 1 Waiting for shelf 1 to be free
+Pizza maker_1_batch_1_pizza_1 placed on shelf 1
+maker 1 entering NAP state
+maker 1 entering MAKING PIZZA BATCH state
+Pizza maker_1_batch_2_pizza_1 produced
+maker 1 Waiting for shelf 1 to be free
+Pizza maker_1_batch_2_pizza_1 placed on shelf 1
+maker 1 entering NAP state
+maker 1 entering MAKING PIZZA BATCH state
+Pizza maker_1_batch_3_pizza_1 produced
+maker 1 Waiting for shelf 1 to be free
+Pizza maker_1_batch_3_pizza_1 placed on shelf 1
+maker 1 entering NAP state
+maker 1 entering MAKING PIZZA BATCH state
+Pizza maker_1_batch_4_pizza_1 produced
+maker 1 Waiting for shelf 1 to be free
+Pizza maker_1_batch_4_pizza_1 placed on shelf 1
+maker 1 entering NAP state
+maker 1 entering MAKING PIZZA BATCH state
+Pizza maker_1_batch_5_pizza_1 produced
+maker 1 Waiting for shelf 1 to be free
+Pizza maker_1_batch_5_pizza_1 placed on shelf 1
+maker 1 entering NAP state
+maker 1 entering MAKING PIZZA BATCH state
+Pizza maker_1_batch_6_pizza_1 produced
+maker 1 Waiting for shelf 1 to be free
+Pizza maker_1_batch_6_pizza_1 placed on shelf 1
+maker 1 entering NAP state
+maker 1 entering MAKING PIZZA BATCH state
+Pizza maker_1_batch_7_pizza_1 produced
+maker 1 Waiting for shelf 1 to be free
+Pizza maker_1_batch_7_pizza_1 placed on shelf 1
+maker 1 entering NAP state
+maker 1 entering MAKING PIZZA BATCH state
+Pizza maker_1_batch_8_pizza_1 produced
+maker 1 Waiting for shelf 1 to be free
+Pizza maker_1_batch_8_pizza_1 placed on shelf 1
+maker 1 entering NAP state
+maker 1 entering MAKING PIZZA BATCH state
+Pizza maker_1_batch_9_pizza_1 produced
+maker 1 Waiting for shelf 1 to be free
+Pizza maker_1_batch_9_pizza_1 placed on shelf 1
+maker 1 entering NAP state
+maker 1 entering MAKING PIZZA BATCH state
+Pizza maker_1_batch_10_pizza_1 produced
+maker 1 Waiting for shelf 1 to be free
+Pizza maker_1_batch_10_pizza_1 placed on shelf 1
+maker 1 entering NAP state
+maker 1 entering MAKING PIZZA BATCH state
+Pizza maker_1_batch_11_pizza_1 produced
+maker 1 Waiting for shelf 1 to be free
+Pizza maker_1_batch_11_pizza_1 placed on shelf 1
+maker 1 entering NAP state
+maker 1 entering MAKING PIZZA BATCH state
+Pizza maker_1_batch_12_pizza_1 produced
+maker 1 Waiting for shelf 1 to be free
+Pizza maker_1_batch_12_pizza_1 placed on shelf 1
+maker 1 entering NAP state
+maker 1 entering MAKING PIZZA BATCH state
+Pizza maker_1_batch_13_pizza_1 produced
+maker 1 Waiting for shelf 1 to be free
+Pizza maker_1_batch_13_pizza_1 placed on shelf 1
+maker 1 entering NAP state
+maker 1 entering MAKING PIZZA BATCH state
+Pizza maker_1_batch_14_pizza_1 produced
+maker 1 Waiting for shelf 1 to be free
+Pizza maker_1_batch_14_pizza_1 placed on shelf 1
+maker 1 entering NAP state
+maker 1 entering MAKING PIZZA BATCH state
+Pizza maker_1_batch_15_pizza_1 produced
+maker 1 Waiting for shelf 1 to be free
+Pizza maker_1_batch_15_pizza_1 placed on shelf 1
+maker 1 entering NAP state
+maker 1 entering MAKING PIZZA BATCH state
+Pizza maker_1_batch_16_pizza_1 produced
+maker 1 Waiting for shelf 1 to be free
+Pizza maker_1_batch_16_pizza_1 placed on shelf 1
+maker 1 entering NAP state
+maker 1 entering MAKING PIZZA BATCH state
+Pizza maker_1_batch_17_pizza_1 produced
+maker 1 Waiting for shelf 1 to be free
+Pizza maker_1_batch_17_pizza_1 placed on shelf 1
+maker 1 entering NAP state
+maker 1 entering MAKING PIZZA BATCH state
+Pizza maker_1_batch_18_pizza_1 produced
+maker 1 Waiting for shelf 1 to be free
+Pizza maker_1_batch_18_pizza_1 placed on shelf 1
+maker 1 entering NAP state
+maker 1 entering MAKING PIZZA BATCH state
+Pizza maker_1_batch_19_pizza_1 produced
+maker 1 Waiting for shelf 1 to be free
+Pizza maker_1_batch_19_pizza_1 placed on shelf 1
+maker 1 entering NAP state
+maker 1 entering MAKING PIZZA BATCH state
+Pizza maker_1_batch_20_pizza_1 produced
+maker 1 Waiting for shelf 1 to be free
+Pizza maker_1_batch_20_pizza_1 placed on shelf 1
+Maker 1 exitting

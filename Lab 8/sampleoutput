@@ -1,0 +1,21 @@
+ID: 1; Orig. Level: 1; Final Level: 1; TAT (ms): 342
+ID: 2; Orig. Level: 1; Final Level: 1; TAT (ms): 382
+ID: 3; Orig. Level: 1; Final Level: 1; TAT (ms): 423
+ID: 4; Orig. Level: 1; Final Level: 1; TAT (ms): 463
+ID: 5; Orig. Level: 1; Final Level: 1; TAT (ms): 564
+ID: 10; Orig. Level: 2; Final Level: 1; TAT (ms): 605
+ID: 15; Orig. Level: 3; Final Level: 1; TAT (ms): 705
+ID: 16; Orig. Level: 4; Final Level: 2; TAT (ms): 806
+ID: 8; Orig. Level: 2; Final Level: 2; TAT (ms): 957
+ID: 9; Orig. Level: 2; Final Level: 1; TAT (ms): 1108
+ID: 17; Orig. Level: 4; Final Level: 2; TAT (ms): 1209
+ID: 6; Orig. Level: 2; Final Level: 1; TAT (ms): 1410
+ID: 18; Orig. Level: 4; Final Level: 2; TAT (ms): 1511
+ID: 7; Orig. Level: 2; Final Level: 1; TAT (ms): 1712
+ID: 19; Orig. Level: 4; Final Level: 2; TAT (ms): 1812
+ID: 20; Orig. Level: 4; Final Level: 2; TAT (ms): 1912
+ID: 13; Orig. Level: 3; Final Level: 3; TAT (ms): 2063
+ID: 14; Orig. Level: 3; Final Level: 3; TAT (ms): 2214
+ID: 11; Orig. Level: 3; Final Level: 2; TAT (ms): 2414
+ID: 12; Orig. Level: 3; Final Level: 2; TAT (ms): 2614
+Mean Turnaround Time: 1261.3 (ms); Throughput: 7.65111 (Processes/Sec)

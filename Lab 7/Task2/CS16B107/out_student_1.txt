@@ -1,0 +1,127 @@
+Student 1 Log
+student 1 entering HUNGRY state
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_1 removed from shelf 1
+Pizza student_1_pizza_1 eaten
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_2 removed from shelf 1
+Pizza student_1_pizza_2 eaten
+student 1 entering STUDYING state
+student 1 entering HUNGRY state
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_3 removed from shelf 1
+Pizza student_1_pizza_3 eaten
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_4 removed from shelf 1
+Pizza student_1_pizza_4 eaten
+student 1 entering STUDYING state
+student 1 entering HUNGRY state
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_5 removed from shelf 1
+Pizza student_1_pizza_5 eaten
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_6 removed from shelf 1
+Pizza student_1_pizza_6 eaten
+student 1 entering STUDYING state
+student 1 entering HUNGRY state
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_7 removed from shelf 1
+Pizza student_1_pizza_7 eaten
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_8 removed from shelf 1
+Pizza student_1_pizza_8 eaten
+student 1 entering STUDYING state
+student 1 entering HUNGRY state
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_9 removed from shelf 1
+Pizza student_1_pizza_9 eaten
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_10 removed from shelf 1
+Pizza student_1_pizza_10 eaten
+student 1 entering STUDYING state
+student 1 entering HUNGRY state
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_11 removed from shelf 1
+Pizza student_1_pizza_11 eaten
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_12 removed from shelf 1
+Pizza student_1_pizza_12 eaten
+student 1 entering STUDYING state
+student 1 entering HUNGRY state
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_13 removed from shelf 1
+Pizza student_1_pizza_13 eaten
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_14 removed from shelf 1
+Pizza student_1_pizza_14 eaten
+student 1 entering STUDYING state
+student 1 entering HUNGRY state
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_15 removed from shelf 1
+Pizza student_1_pizza_15 eaten
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_16 removed from shelf 1
+Pizza student_1_pizza_16 eaten
+student 1 entering STUDYING state
+student 1 entering HUNGRY state
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_17 removed from shelf 1
+Pizza student_1_pizza_17 eaten
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_18 removed from shelf 1
+Pizza student_1_pizza_18 eaten
+student 1 entering STUDYING state
+student 1 entering HUNGRY state
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_19 removed from shelf 1
+Pizza student_1_pizza_19 eaten
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_20 removed from shelf 1
+Pizza student_1_pizza_20 eaten
+student 1 entering STUDYING state
+student 1 entering HUNGRY state
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+student 1 exitting as no more makers left and shelf 1 is empty
+Student 1 exitting

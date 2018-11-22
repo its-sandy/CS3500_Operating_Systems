@@ -1,0 +1,5 @@
+are all pizzas in a maker batch added continuously while holding the shelf
+should the pizza maker know that all shelves are full? or should he just keep trying at random?
+what if after the wait, the randomly chosen shelf turns out to be full
+should there be a mapping between id given to inserted and eaten pizzas? If not so, why should v even maintain queues?
+how many maker and user threads should be there?

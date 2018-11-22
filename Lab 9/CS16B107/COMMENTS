@@ -1,0 +1,3 @@
+The assignment helped me understand the practical issues associated when implementing the theory concepts we had studied.
+
+The assignment refers to Virtual Memory as some sort of common address space shared by all processes. However, we had studied in class that each process has its own virtual/logical address space. Later, the TAs had clarified that the assignment had meant to mimic the swap space. This could have been explained in the assignment pdf.

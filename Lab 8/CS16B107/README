@@ -1,0 +1,18 @@
+Scheduler
+
+1.	Levels 1 (RR) and 4 (FCFS) are modelled as regular queues, while Levels 2 (SJF) and 3 (SJF) are modelled as priority queues.
+
+2.	We create 2 threads, one for schdeuling and promoting processes and another for promoting processes to the next level.
+
+3.	Access to the 4 queues contents are restricted using a semaphore lock.
+
+4.	The promoteProcesses thread does the following in a loop:-
+	a.	Sleep for a time of T milliseconds.
+	b.	For the head of each queue, it checks if it has been at least T ms since that job entered the current list (which is stored in arrivalTime). If yes, that job is promoted to the next level.
+
+5.	The scheduleAndRunProcess thread does the following in a loop:-
+	a.	Gains access to the queues and finds the job to be scheduled next.
+	b.	Gives up access to the queues and sleeps for the duration of the burst time of the job (To simulate job execution). Note that during this time, the thread does not retain access to the queues, thus allowing the scheduler to work in the background.
+	c.	In case the job has not been completed, gain control of the queues and push it back once again. Else, store the completion time in completitionTime map.
+
+6.	After all jobs are over, the scheduleAndRunProcess thread calculates the required statistics

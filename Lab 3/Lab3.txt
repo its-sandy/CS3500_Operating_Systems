@@ -1,0 +1,57 @@
+============================
+CS3500 - Operating Systems
+July-Nov 2018
+Lab Exercise 3
+Aug. 20, 2018
+Online submission: Aug. 20, 2018, 9pm on Moodle
+
+Demo to TAs due on or before Aug. 23, 2018, 5.30pm using code
+downloaded from Moodle
+
+Demo. can be shown on your laptop or on one of Systems Lab/Hardware
+Lab machines.
+
+MOSS/other code similarity checking software will be used.
+============================
+
+Implement a mini-shell program in C using UNIX system calls, including
+fork and execvp (or similar). 
+
+In the demo, the TAs can ask you to rewrite the code using a different
+version of exec (e.g. execlp, etc.)  command other than what is used
+in your program. You can refer the Man pages during the demo.
+
+****
+
+The program will start by displaying a command prompt, as follows:
+
+Command> 
+
+(1) Whenever the user enters a command (with optional arguments), the
+program will spawn a new process that will execute the specified
+command. For example:
+
+Command> ls -l
+
+will produce the output of ls -l.
+
+Command> date
+
+will produce the output of date command.
+
+(2) Background process: the user can specify that a command has to be
+  run in the background using '&' symbol.
+
+INPUT:
+
+Command> ls -l &
+
+OUTPUT:
+
+The mini-shell will return to the Command prompt and accept the next
+command. The child process that is running the 'ls -l' will output to
+the screen when it completes. 
+
+(3) Exiting: When the user types "exit" or "quit", the shell program exits.
+
+============================

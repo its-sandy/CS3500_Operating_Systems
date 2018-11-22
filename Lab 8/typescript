@@ -1,0 +1,97 @@
+Script started on Sunday 14 October 2018 10:59:33 AM IST
+[1m[7m%[27m[1m[0m                                                                                                                                                     [0m[27m[24m[J[34m~/D/C/Lab 8 [K[?1h=[0m[27m[24m[J[34m~/D/C/Lab 8 [1m[31m❯[33m❯[32m❯[39m[0m [K[?2004h[0m[27m[24m[J[34m~/D/C/Lab 8 [1m[31m❯[33m❯[32m❯[39m[0m [Kmmake[?1l>[?2004l[0m[27m[24m[J[34m~/D/C/Lab 8 [1m[31m❯[33m❯[32m❯[39m[0m make[K
+g++ -std=c++14 -o scheduler scheduler.cpp -lpthread
+run as ./scheduler -Q RRtimeQuantum -T promoteTime -F inputFileName -P outputFileName
+[1m[7m%[27m[1m[0m                                                                                                                                                     [0m[27m[24m[J[34m~/D/C/Lab 8 [1m[31m❯[33m❯[32m❯[39m[0m [K[?1h=[0m[27m[24m[J[34m~/D/C/Lab 8 [1m[31m❯[33m❯[32m❯[39m[0m [K[?2004h[0m[27m[24m[J[34m~/D/C/Lab 8 [1m[31m❯[33m❯[32m❯[39m[0m [Kmakescript typescript[17D./scheduler -Q 60 -T 300 -F input -P outputsoutputaoutputmoutputpoutputloutputeoutputsinput -P sampleoutput[21Dainput -P sampleoutput[21Dminput -P sampleoutput[21Dpinput -P sampleoutput[21Dlinput -P sampleoutput[21Deinput -P sampleoutput[21D[?1l>[?2004l[0m[27m[24m[J[34m~/D/C/Lab 8 [1m[31m❯[33m❯[32m❯[39m[0m ./scheduler -Q 60 -T 300 -F sampleinput -P sampleoutput[K[21D
+Milliseconds Elapsed :      0 | Process   1 scheduled from Level 1 for Burst Time =   60ms
+Milliseconds Elapsed :     60 | Process   1 switched out
+Milliseconds Elapsed :     60 | Process   2 scheduled from Level 1 for Burst Time =   60ms
+Milliseconds Elapsed :    121 | Process   2 switched out
+Milliseconds Elapsed :    121 | Process   3 scheduled from Level 1 for Burst Time =   60ms
+Milliseconds Elapsed :    181 | Process   3 switched out
+Milliseconds Elapsed :    181 | Process   4 scheduled from Level 1 for Burst Time =   60ms
+Milliseconds Elapsed :    241 | Process   4 switched out
+Milliseconds Elapsed :    241 | Process   5 scheduled from Level 1 for Burst Time =   60ms
+Milliseconds Elapsed :    300 | Process  10 promoted from level 2 to level 1
+Milliseconds Elapsed :    300 | Process  15 promoted from level 3 to level 2
+Milliseconds Elapsed :    300 | Process  16 promoted from level 4 to level 3
+Milliseconds Elapsed :    301 | Process   5 switched out
+Milliseconds Elapsed :    301 | Process   1 scheduled from Level 1 for Burst Time =   40ms
+Milliseconds Elapsed :    342 | Process   1 completed from Level 1
+Milliseconds Elapsed :    342 | Process   2 scheduled from Level 1 for Burst Time =   40ms
+Milliseconds Elapsed :    382 | Process   2 completed from Level 1
+Milliseconds Elapsed :    382 | Process   3 scheduled from Level 1 for Burst Time =   40ms
+Milliseconds Elapsed :    423 | Process   3 completed from Level 1
+Milliseconds Elapsed :    423 | Process   4 scheduled from Level 1 for Burst Time =   40ms
+Milliseconds Elapsed :    463 | Process   4 completed from Level 1
+Milliseconds Elapsed :    463 | Process  10 scheduled from Level 1 for Burst Time =   60ms
+Milliseconds Elapsed :    524 | Process  10 switched out
+Milliseconds Elapsed :    524 | Process   5 scheduled from Level 1 for Burst Time =   40ms
+Milliseconds Elapsed :    564 | Process   5 completed from Level 1
+Milliseconds Elapsed :    564 | Process  10 scheduled from Level 1 for Burst Time =   40ms
+Milliseconds Elapsed :    600 | Process  15 promoted from level 2 to level 1
+Milliseconds Elapsed :    600 | Process  16 promoted from level 3 to level 2
+Milliseconds Elapsed :    600 | Process  17 promoted from level 4 to level 3
+Milliseconds Elapsed :    605 | Process  10 completed from Level 1
+Milliseconds Elapsed :    605 | Process  15 scheduled from Level 1 for Burst Time =   60ms
+Milliseconds Elapsed :    665 | Process  15 switched out
+Milliseconds Elapsed :    665 | Process  15 scheduled from Level 1 for Burst Time =   40ms
+Milliseconds Elapsed :    705 | Process  15 completed from Level 1
+Milliseconds Elapsed :    705 | Process  16 scheduled from Level 2 for Burst Time =  100ms
+Milliseconds Elapsed :    806 | Process  16 completed from Level 2
+Milliseconds Elapsed :    806 | Process   8 scheduled from Level 2 for Burst Time =  150ms
+Milliseconds Elapsed :    900 | Process   9 promoted from level 2 to level 1
+Milliseconds Elapsed :    900 | Process  17 promoted from level 3 to level 2
+Milliseconds Elapsed :    900 | Process  18 promoted from level 4 to level 3
+Milliseconds Elapsed :    957 | Process   8 completed from Level 2
+Milliseconds Elapsed :    957 | Process   9 scheduled from Level 1 for Burst Time =   60ms
+Milliseconds Elapsed :   1017 | Process   9 switched out
+Milliseconds Elapsed :   1017 | Process   9 scheduled from Level 1 for Burst Time =   60ms
+Milliseconds Elapsed :   1078 | Process   9 switched out
+Milliseconds Elapsed :   1078 | Process   9 scheduled from Level 1 for Burst Time =   30ms
+Milliseconds Elapsed :   1108 | Process   9 completed from Level 1
+Milliseconds Elapsed :   1108 | Process  17 scheduled from Level 2 for Burst Time =  100ms
+Milliseconds Elapsed :   1201 | Process   6 promoted from level 2 to level 1
+Milliseconds Elapsed :   1201 | Process  18 promoted from level 3 to level 2
+Milliseconds Elapsed :   1201 | Process  19 promoted from level 4 to level 3
+Milliseconds Elapsed :   1209 | Process  17 completed from Level 2
+Milliseconds Elapsed :   1209 | Process   6 scheduled from Level 1 for Burst Time =   60ms
+Milliseconds Elapsed :   1269 | Process   6 switched out
+Milliseconds Elapsed :   1269 | Process   6 scheduled from Level 1 for Burst Time =   60ms
+Milliseconds Elapsed :   1329 | Process   6 switched out
+Milliseconds Elapsed :   1330 | Process   6 scheduled from Level 1 for Burst Time =   60ms
+Milliseconds Elapsed :   1390 | Process   6 switched out
+Milliseconds Elapsed :   1390 | Process   6 scheduled from Level 1 for Burst Time =   20ms
+Milliseconds Elapsed :   1410 | Process   6 completed from Level 1
+Milliseconds Elapsed :   1410 | Process  18 scheduled from Level 2 for Burst Time =  100ms
+Milliseconds Elapsed :   1501 | Process   7 promoted from level 2 to level 1
+Milliseconds Elapsed :   1501 | Process  19 promoted from level 3 to level 2
+Milliseconds Elapsed :   1501 | Process  20 promoted from level 4 to level 3
+Milliseconds Elapsed :   1511 | Process  18 completed from Level 2
+Milliseconds Elapsed :   1511 | Process   7 scheduled from Level 1 for Burst Time =   60ms
+Milliseconds Elapsed :   1571 | Process   7 switched out
+Milliseconds Elapsed :   1571 | Process   7 scheduled from Level 1 for Burst Time =   60ms
+Milliseconds Elapsed :   1631 | Process   7 switched out
+Milliseconds Elapsed :   1631 | Process   7 scheduled from Level 1 for Burst Time =   60ms
+Milliseconds Elapsed :   1691 | Process   7 switched out
+Milliseconds Elapsed :   1691 | Process   7 scheduled from Level 1 for Burst Time =   20ms
+Milliseconds Elapsed :   1712 | Process   7 completed from Level 1
+Milliseconds Elapsed :   1712 | Process  19 scheduled from Level 2 for Burst Time =  100ms
+Milliseconds Elapsed :   1801 | Process  20 promoted from level 3 to level 2
+Milliseconds Elapsed :   1812 | Process  19 completed from Level 2
+Milliseconds Elapsed :   1812 | Process  20 scheduled from Level 2 for Burst Time =  100ms
+Milliseconds Elapsed :   1912 | Process  20 completed from Level 2
+Milliseconds Elapsed :   1912 | Process  13 scheduled from Level 3 for Burst Time =  150ms
+Milliseconds Elapsed :   2063 | Process  13 completed from Level 3
+Milliseconds Elapsed :   2063 | Process  14 scheduled from Level 3 for Burst Time =  150ms
+Milliseconds Elapsed :   2102 | Process  11 promoted from level 3 to level 2
+Milliseconds Elapsed :   2214 | Process  14 completed from Level 3
+Milliseconds Elapsed :   2214 | Process  11 scheduled from Level 2 for Burst Time =  200ms
+Milliseconds Elapsed :   2402 | Process  12 promoted from level 3 to level 2
+Milliseconds Elapsed :   2414 | Process  11 completed from Level 2
+Milliseconds Elapsed :   2414 | Process  12 scheduled from Level 2 for Burst Time =  200ms
+Milliseconds Elapsed :   2614 | Process  12 completed from Level 2
+All processes completed, program terminated
+[1m[7m%[27m[1m[0m                                                                                                                                                     [0m[27m[24m[J[34m~/D/C/Lab 8 [1m[31m❯[33m❯[32m❯[39m[0m [K[?1h=[0m[27m[24m[J[34m~/D/C/Lab 8 [1m[31m❯[33m❯[32m❯[39m[0m [K[?2004h[0m[27m[24m[J[34m~/D/C/Lab 8 [1m[31m❯[33m❯[32m❯[39m[0m [K[?2004l
+
+Script done on Sunday 14 October 2018 11:00:04 AM IST

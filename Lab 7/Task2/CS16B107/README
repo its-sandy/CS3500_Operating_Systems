@@ -1,0 +1,17 @@
+Task 2:
+	Pizza and Students
+
+	1.	The typescript file prints 0s and 1s to indicate that there are still some makers and students who are running currently. 
+	2.	If a student is looking at the 3rd randomly genereated shelf and finds it empty and also that all makers have completed execution, then that thread quits.
+	3.	If a maker finds that all shelfs are full and that all students have finished execution, then that thread quits.
+	4.	Number of cycles (or batches) for students and makers is assumed to be 20.
+
+Bonus:
+	Santa Claus Problem
+
+	1.	We create 3 types of threads -> santa, elf, reindeer
+	2.	santa thread keeps waiting on semaphore santaSem to act on either elves, or reindeer, or to quit
+	3.	reindeer threads keeps increasing reindeer count as new reindeer keep adding. When, the 9th reindeer arrives, it releases the wait in santa thread. In turn, santa thread releases the wait (reindeerSem) on each of the reindeer threads
+	4.	Elf threads allow elf counter to increase till we reach 3 elves. When that happens, a signal is sent santa, which in turn allows these 3 elves to proceed. Once the last of these elves finishes execution, it allows new elves to be created.
+	5.	when overall counter of number of threads created equals n+9, santa decides to exit and join with parent thread.
+	6.	now parent thread cancels all remaining threads (in case any elves are left out) and joins them. The number of left out elves is printed

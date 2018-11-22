@@ -1,0 +1,13 @@
+ls /
+open /file1.c
+open /dir1/file2.c
+createdir /dir1
+open /dir1/file2.c
+seekread /file1.c 10
+write /file1.c HelloWorld?HowAreYouDoing?
+read /file1.c 10
+write /dir1/file2.c EducationIsForLife!NotMerelyALiving!
+read /dir1/file2.c 15
+ls /
+delete /dir2/file3.c
+deletedir /dir2

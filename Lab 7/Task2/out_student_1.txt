@@ -1,0 +1,638 @@
+Student 1 Log
+student 1 entering HUNGRY state
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 4
+Pizza student_1_pizza_1 removed from shelf 4
+Pizza student_1_pizza_1 eaten
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_2 removed from shelf 1
+Pizza student_1_pizza_2 eaten
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_3 removed from shelf 2
+Pizza student_1_pizza_3 eaten
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_4 removed from shelf 2
+Pizza student_1_pizza_4 eaten
+student 1 Waiting for pizza to be added to shelf 2
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_5 removed from shelf 2
+Pizza student_1_pizza_5 eaten
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 4
+Pizza student_1_pizza_6 removed from shelf 4
+Pizza student_1_pizza_6 eaten
+student 1 Waiting for pizza to be added to shelf 4
+Pizza student_1_pizza_7 removed from shelf 4
+Pizza student_1_pizza_7 eaten
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 4
+Pizza student_1_pizza_8 removed from shelf 4
+Pizza student_1_pizza_8 eaten
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_9 removed from shelf 2
+Pizza student_1_pizza_9 eaten
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_10 removed from shelf 2
+Pizza student_1_pizza_10 eaten
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 3
+Pizza student_1_pizza_11 removed from shelf 3
+Pizza student_1_pizza_11 eaten
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_12 removed from shelf 2
+Pizza student_1_pizza_12 eaten
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_13 removed from shelf 2
+Pizza student_1_pizza_13 eaten
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_14 removed from shelf 1
+Pizza student_1_pizza_14 eaten
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 3
+Pizza student_1_pizza_15 removed from shelf 3
+Pizza student_1_pizza_15 eaten
+student 1 Waiting for pizza to be added to shelf 2
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_16 removed from shelf 2
+Pizza student_1_pizza_16 eaten
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 2
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_17 removed from shelf 2
+Pizza student_1_pizza_17 eaten
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 3
+Pizza student_1_pizza_18 removed from shelf 3
+Pizza student_1_pizza_18 eaten
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 2
+student 1 Waiting for pizza to be added to shelf 3
+Pizza student_1_pizza_19 removed from shelf 3
+Pizza student_1_pizza_19 eaten
+student 1 Waiting for pizza to be added to shelf 2
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_20 removed from shelf 2
+Pizza student_1_pizza_20 eaten
+student 1 Waiting for pizza to be added to shelf 3
+Pizza student_1_pizza_21 removed from shelf 3
+Pizza student_1_pizza_21 eaten
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_22 removed from shelf 1
+Pizza student_1_pizza_22 eaten
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_23 removed from shelf 2
+Pizza student_1_pizza_23 eaten
+student 1 Waiting for pizza to be added to shelf 2
+student 1 Waiting for pizza to be added to shelf 2
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_24 removed from shelf 1
+Pizza student_1_pizza_24 eaten
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_25 removed from shelf 2
+Pizza student_1_pizza_25 eaten
+student 1 Waiting for pizza to be added to shelf 4
+Pizza student_1_pizza_26 removed from shelf 4
+Pizza student_1_pizza_26 eaten
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_27 removed from shelf 1
+Pizza student_1_pizza_27 eaten
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 3
+Pizza student_1_pizza_28 removed from shelf 3
+Pizza student_1_pizza_28 eaten
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 4
+Pizza student_1_pizza_29 removed from shelf 4
+Pizza student_1_pizza_29 eaten
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 4
+Pizza student_1_pizza_30 removed from shelf 4
+Pizza student_1_pizza_30 eaten
+student 1 entering STUDYING state
+student 1 entering HUNGRY state
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_31 removed from shelf 1
+Pizza student_1_pizza_31 eaten
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_32 removed from shelf 2
+Pizza student_1_pizza_32 eaten
+student 1 Waiting for pizza to be added to shelf 2
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 3
+Pizza student_1_pizza_33 removed from shelf 3
+Pizza student_1_pizza_33 eaten
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_34 removed from shelf 2
+Pizza student_1_pizza_34 eaten
+student 1 Waiting for pizza to be added to shelf 4
+Pizza student_1_pizza_35 removed from shelf 4
+Pizza student_1_pizza_35 eaten
+student 1 Waiting for pizza to be added to shelf 4
+Pizza student_1_pizza_36 removed from shelf 4
+Pizza student_1_pizza_36 eaten
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_37 removed from shelf 2
+Pizza student_1_pizza_37 eaten
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_38 removed from shelf 2
+Pizza student_1_pizza_38 eaten
+student 1 Waiting for pizza to be added to shelf 2
+student 1 Waiting for pizza to be added to shelf 3
+Pizza student_1_pizza_39 removed from shelf 3
+Pizza student_1_pizza_39 eaten
+student 1 Waiting for pizza to be added to shelf 2
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 3
+Pizza student_1_pizza_40 removed from shelf 3
+Pizza student_1_pizza_40 eaten
+student 1 Waiting for pizza to be added to shelf 2
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 3
+Pizza student_1_pizza_41 removed from shelf 3
+Pizza student_1_pizza_41 eaten
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_42 removed from shelf 1
+Pizza student_1_pizza_42 eaten
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 4
+Pizza student_1_pizza_43 removed from shelf 4
+Pizza student_1_pizza_43 eaten
+student 1 Waiting for pizza to be added to shelf 3
+Pizza student_1_pizza_44 removed from shelf 3
+Pizza student_1_pizza_44 eaten
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 3
+Pizza student_1_pizza_45 removed from shelf 3
+Pizza student_1_pizza_45 eaten
+student 1 Waiting for pizza to be added to shelf 2
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 3
+Pizza student_1_pizza_46 removed from shelf 3
+Pizza student_1_pizza_46 eaten
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_47 removed from shelf 2
+Pizza student_1_pizza_47 eaten
+student 1 Waiting for pizza to be added to shelf 2
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 4
+Pizza student_1_pizza_48 removed from shelf 4
+Pizza student_1_pizza_48 eaten
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_49 removed from shelf 1
+Pizza student_1_pizza_49 eaten
+student 1 Waiting for pizza to be added to shelf 2
+student 1 Waiting for pizza to be added to shelf 4
+Pizza student_1_pizza_50 removed from shelf 4
+Pizza student_1_pizza_50 eaten
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_51 removed from shelf 2
+Pizza student_1_pizza_51 eaten
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_52 removed from shelf 1
+Pizza student_1_pizza_52 eaten
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_53 removed from shelf 1
+Pizza student_1_pizza_53 eaten
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_54 removed from shelf 1
+Pizza student_1_pizza_54 eaten
+student 1 Waiting for pizza to be added to shelf 2
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 4
+Pizza student_1_pizza_55 removed from shelf 4
+Pizza student_1_pizza_55 eaten
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_56 removed from shelf 2
+Pizza student_1_pizza_56 eaten
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_57 removed from shelf 2
+Pizza student_1_pizza_57 eaten
+student 1 Waiting for pizza to be added to shelf 4
+Pizza student_1_pizza_58 removed from shelf 4
+Pizza student_1_pizza_58 eaten
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 3
+Pizza student_1_pizza_59 removed from shelf 3
+Pizza student_1_pizza_59 eaten
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_60 removed from shelf 1
+Pizza student_1_pizza_60 eaten
+student 1 entering STUDYING state
+student 1 entering HUNGRY state
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 4
+Pizza student_1_pizza_61 removed from shelf 4
+Pizza student_1_pizza_61 eaten
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_62 removed from shelf 2
+Pizza student_1_pizza_62 eaten
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_63 removed from shelf 2
+Pizza student_1_pizza_63 eaten
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 2
+student 1 Waiting for pizza to be added to shelf 4
+Pizza student_1_pizza_64 removed from shelf 4
+Pizza student_1_pizza_64 eaten
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_65 removed from shelf 1
+Pizza student_1_pizza_65 eaten
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 2
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_66 removed from shelf 2
+Pizza student_1_pizza_66 eaten
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_67 removed from shelf 2
+Pizza student_1_pizza_67 eaten
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_68 removed from shelf 1
+Pizza student_1_pizza_68 eaten
+student 1 Waiting for pizza to be added to shelf 2
+student 1 Waiting for pizza to be added to shelf 4
+Pizza student_1_pizza_69 removed from shelf 4
+Pizza student_1_pizza_69 eaten
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_70 removed from shelf 1
+Pizza student_1_pizza_70 eaten
+student 1 Waiting for pizza to be added to shelf 2
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_71 removed from shelf 1
+Pizza student_1_pizza_71 eaten
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_72 removed from shelf 1
+Pizza student_1_pizza_72 eaten
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_73 removed from shelf 1
+Pizza student_1_pizza_73 eaten
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_74 removed from shelf 1
+Pizza student_1_pizza_74 eaten
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 4
+Pizza student_1_pizza_75 removed from shelf 4
+Pizza student_1_pizza_75 eaten
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_76 removed from shelf 1
+Pizza student_1_pizza_76 eaten
+student 1 Waiting for pizza to be added to shelf 4
+Pizza student_1_pizza_77 removed from shelf 4
+Pizza student_1_pizza_77 eaten
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_78 removed from shelf 2
+Pizza student_1_pizza_78 eaten
+student 1 Waiting for pizza to be added to shelf 2
+student 1 Waiting for pizza to be added to shelf 4
+Pizza student_1_pizza_79 removed from shelf 4
+Pizza student_1_pizza_79 eaten
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_80 removed from shelf 1
+Pizza student_1_pizza_80 eaten
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_81 removed from shelf 1
+Pizza student_1_pizza_81 eaten
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_82 removed from shelf 2
+Pizza student_1_pizza_82 eaten
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 3
+Pizza student_1_pizza_83 removed from shelf 3
+Pizza student_1_pizza_83 eaten
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_84 removed from shelf 2
+Pizza student_1_pizza_84 eaten
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_85 removed from shelf 2
+Pizza student_1_pizza_85 eaten
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_86 removed from shelf 1
+Pizza student_1_pizza_86 eaten
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_87 removed from shelf 2
+Pizza student_1_pizza_87 eaten
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_88 removed from shelf 2
+Pizza student_1_pizza_88 eaten
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_89 removed from shelf 2
+Pizza student_1_pizza_89 eaten
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_90 removed from shelf 1
+Pizza student_1_pizza_90 eaten
+student 1 entering STUDYING state
+student 1 entering HUNGRY state
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_91 removed from shelf 1
+Pizza student_1_pizza_91 eaten
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 4
+Pizza student_1_pizza_92 removed from shelf 4
+Pizza student_1_pizza_92 eaten
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_93 removed from shelf 1
+Pizza student_1_pizza_93 eaten
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_94 removed from shelf 1
+Pizza student_1_pizza_94 eaten
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_95 removed from shelf 1
+Pizza student_1_pizza_95 eaten
+student 1 Waiting for pizza to be added to shelf 3
+Pizza student_1_pizza_96 removed from shelf 3
+Pizza student_1_pizza_96 eaten
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_97 removed from shelf 2
+Pizza student_1_pizza_97 eaten
+student 1 Waiting for pizza to be added to shelf 3
+Pizza student_1_pizza_98 removed from shelf 3
+Pizza student_1_pizza_98 eaten
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_99 removed from shelf 2
+Pizza student_1_pizza_99 eaten
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_100 removed from shelf 1
+Pizza student_1_pizza_100 eaten
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_101 removed from shelf 1
+Pizza student_1_pizza_101 eaten
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_102 removed from shelf 1
+Pizza student_1_pizza_102 eaten
+student 1 Waiting for pizza to be added to shelf 3
+Pizza student_1_pizza_103 removed from shelf 3
+Pizza student_1_pizza_103 eaten
+student 1 Waiting for pizza to be added to shelf 2
+student 1 Waiting for pizza to be added to shelf 3
+Pizza student_1_pizza_104 removed from shelf 3
+Pizza student_1_pizza_104 eaten
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_105 removed from shelf 1
+Pizza student_1_pizza_105 eaten
+student 1 Waiting for pizza to be added to shelf 3
+Pizza student_1_pizza_106 removed from shelf 3
+Pizza student_1_pizza_106 eaten
+student 1 Waiting for pizza to be added to shelf 2
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_107 removed from shelf 1
+Pizza student_1_pizza_107 eaten
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 4
+Pizza student_1_pizza_108 removed from shelf 4
+Pizza student_1_pizza_108 eaten
+student 1 Waiting for pizza to be added to shelf 2
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_109 removed from shelf 1
+Pizza student_1_pizza_109 eaten
+student 1 Waiting for pizza to be added to shelf 2
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_110 removed from shelf 2
+Pizza student_1_pizza_110 eaten
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 4
+Pizza student_1_pizza_111 removed from shelf 4
+Pizza student_1_pizza_111 eaten
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_112 removed from shelf 1
+Pizza student_1_pizza_112 eaten
+student 1 Waiting for pizza to be added to shelf 4
+Pizza student_1_pizza_113 removed from shelf 4
+Pizza student_1_pizza_113 eaten
+student 1 Waiting for pizza to be added to shelf 4
+Pizza student_1_pizza_114 removed from shelf 4
+Pizza student_1_pizza_114 eaten
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 4
+Pizza student_1_pizza_115 removed from shelf 4
+Pizza student_1_pizza_115 eaten
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 4
+Pizza student_1_pizza_116 removed from shelf 4
+Pizza student_1_pizza_116 eaten
+student 1 Waiting for pizza to be added to shelf 4
+Pizza student_1_pizza_117 removed from shelf 4
+Pizza student_1_pizza_117 eaten
+student 1 Waiting for pizza to be added to shelf 4
+Pizza student_1_pizza_118 removed from shelf 4
+Pizza student_1_pizza_118 eaten
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_119 removed from shelf 1
+Pizza student_1_pizza_119 eaten
+student 1 Waiting for pizza to be added to shelf 2
+student 1 Waiting for pizza to be added to shelf 4
+Pizza student_1_pizza_120 removed from shelf 4
+Pizza student_1_pizza_120 eaten
+student 1 entering STUDYING state
+student 1 entering HUNGRY state
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 4
+Pizza student_1_pizza_121 removed from shelf 4
+Pizza student_1_pizza_121 eaten
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 4
+Pizza student_1_pizza_122 removed from shelf 4
+Pizza student_1_pizza_122 eaten
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 2
+student 1 Waiting for pizza to be added to shelf 3
+Pizza student_1_pizza_123 removed from shelf 3
+Pizza student_1_pizza_123 eaten
+student 1 Waiting for pizza to be added to shelf 4
+Pizza student_1_pizza_124 removed from shelf 4
+Pizza student_1_pizza_124 eaten
+student 1 Waiting for pizza to be added to shelf 4
+Pizza student_1_pizza_125 removed from shelf 4
+Pizza student_1_pizza_125 eaten
+student 1 Waiting for pizza to be added to shelf 2
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_126 removed from shelf 2
+Pizza student_1_pizza_126 eaten
+student 1 Waiting for pizza to be added to shelf 3
+Pizza student_1_pizza_127 removed from shelf 3
+Pizza student_1_pizza_127 eaten
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_128 removed from shelf 2
+Pizza student_1_pizza_128 eaten
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 3
+Pizza student_1_pizza_129 removed from shelf 3
+Pizza student_1_pizza_129 eaten
+student 1 Waiting for pizza to be added to shelf 2
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_130 removed from shelf 2
+Pizza student_1_pizza_130 eaten
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 3
+Pizza student_1_pizza_131 removed from shelf 3
+Pizza student_1_pizza_131 eaten
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_132 removed from shelf 2
+Pizza student_1_pizza_132 eaten
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_133 removed from shelf 2
+Pizza student_1_pizza_133 eaten
+student 1 Waiting for pizza to be added to shelf 3
+Pizza student_1_pizza_134 removed from shelf 3
+Pizza student_1_pizza_134 eaten
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 3
+Pizza student_1_pizza_135 removed from shelf 3
+Pizza student_1_pizza_135 eaten
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 3
+Pizza student_1_pizza_136 removed from shelf 3
+Pizza student_1_pizza_136 eaten
+student 1 Waiting for pizza to be added to shelf 2
+student 1 Waiting for pizza to be added to shelf 2
+student 1 Waiting for pizza to be added to shelf 4
+Pizza student_1_pizza_137 removed from shelf 4
+Pizza student_1_pizza_137 eaten
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 2
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_138 removed from shelf 2
+Pizza student_1_pizza_138 eaten
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 3
+Pizza student_1_pizza_139 removed from shelf 3
+Pizza student_1_pizza_139 eaten
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 3
+Pizza student_1_pizza_140 removed from shelf 3
+Pizza student_1_pizza_140 eaten
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_141 removed from shelf 2
+Pizza student_1_pizza_141 eaten
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_142 removed from shelf 1
+Pizza student_1_pizza_142 eaten
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 3
+Pizza student_1_pizza_143 removed from shelf 3
+Pizza student_1_pizza_143 eaten
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 3
+Pizza student_1_pizza_144 removed from shelf 3
+Pizza student_1_pizza_144 eaten
+student 1 Waiting for pizza to be added to shelf 3
+Pizza student_1_pizza_145 removed from shelf 3
+Pizza student_1_pizza_145 eaten
+student 1 Waiting for pizza to be added to shelf 1
+Pizza student_1_pizza_146 removed from shelf 1
+Pizza student_1_pizza_146 eaten
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_147 removed from shelf 2
+Pizza student_1_pizza_147 eaten
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_148 removed from shelf 2
+Pizza student_1_pizza_148 eaten
+student 1 Waiting for pizza to be added to shelf 3
+Pizza student_1_pizza_149 removed from shelf 3
+Pizza student_1_pizza_149 eaten
+student 1 Waiting for pizza to be added to shelf 3
+Pizza student_1_pizza_150 removed from shelf 3
+Pizza student_1_pizza_150 eaten
+student 1 entering STUDYING state
+student 1 entering HUNGRY state
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_151 removed from shelf 2
+Pizza student_1_pizza_151 eaten
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_152 removed from shelf 2
+Pizza student_1_pizza_152 eaten
+student 1 Waiting for pizza to be added to shelf 3
+student 1 Waiting for pizza to be added to shelf 2
+Pizza student_1_pizza_153 removed from shelf 2
+Pizza student_1_pizza_153 eaten
+student 1 Waiting for pizza to be added to shelf 4
+student 1 Waiting for pizza to be added to shelf 1
+student 1 Waiting for pizza to be added to shelf 1
+student 1 exitting as no more makers left and shelf 1 is empty
+Student 1 exitting

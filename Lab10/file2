@@ -1,0 +1,9 @@
+ls /
+open /file1.c
+seekread /file1.c 15
+seekwrite /file1.c 25
+write /file1.c This#Is#A#Sample#Sentence#The#Accused#Got#Ten#Years!
+read /file1.c 15
+ls /
+delete /dir1/file2.c
+deletedir /dir1

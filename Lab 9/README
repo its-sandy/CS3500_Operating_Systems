@@ -1,0 +1,26 @@
+Assumptions in Implementation:-
+
+1) It is assumed that any file in MM is also in VM. So swapout and swapin simply takes out and brings in the file from MM (without affecting VM). This is done to avoid issues like the following:-
+
+	suppose both MM and VM are full with the following files
+
+	MM - f1 (4kB), f2 (4kB), f3 (4kB)
+	VM - f4 (12kB)
+
+	now swapout of f1 is not possible as it would have to be accompanied by swapout of f2 and f3 as well.
+
+2) The above assumption implies that size of VM is always as large as that of MM.
+
+3) We assume that none of the files are larger than the size of MM.
+
+4) An entry of -1 in any page table implies that the corresponding logical page is not present in MM.
+
+5) All MM locations are initialized with value zero. Also, when a file that occupies a particular section of MM is killed or swapped out, that section of MM remains as junk values.
+
+6) Both MM and VM size are assumed to be divisible by the page size
+
+7) The check whether a logical address falls in a process's address space is done using the process's actual size and not the space occupied by the pages allocated to it.
+
+8) when a process is run, it is added to the top of the most recently run list. If not enough of these are there in the list to be swapped out, we start removing processes from MM in the order of pages in the MM.
+
+9) All arrays are zero indexed

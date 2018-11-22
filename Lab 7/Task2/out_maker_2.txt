@@ -1,0 +1,464 @@
+Maker 2 Log
+maker 2 entering MAKING PIZZA BATCH state
+Pizza maker_2_batch_1_pizza_1 produced
+maker 2 Waiting for shelf 1 to be free
+Pizza maker_2_batch_1_pizza_1 placed on shelf 1
+Pizza maker_2_batch_1_pizza_2 produced
+Pizza maker_2_batch_1_pizza_2 placed on shelf 1
+Pizza maker_2_batch_1_pizza_3 produced
+Pizza maker_2_batch_1_pizza_3 placed on shelf 1
+Pizza maker_2_batch_1_pizza_4 produced
+Pizza maker_2_batch_1_pizza_4 placed on shelf 1
+Pizza maker_2_batch_1_pizza_5 produced
+Pizza maker_2_batch_1_pizza_5 placed on shelf 1
+Pizza maker_2_batch_1_pizza_6 produced
+Pizza maker_2_batch_1_pizza_6 placed on shelf 1
+Pizza maker_2_batch_1_pizza_7 produced
+Pizza maker_2_batch_1_pizza_7 placed on shelf 1
+Pizza maker_2_batch_1_pizza_8 produced
+Pizza maker_2_batch_1_pizza_8 placed on shelf 1
+Pizza maker_2_batch_1_pizza_9 produced
+Pizza maker_2_batch_1_pizza_9 placed on shelf 1
+Pizza maker_2_batch_1_pizza_10 produced
+Pizza maker_2_batch_1_pizza_10 placed on shelf 1
+maker 2 entering NAP state
+maker 2 entering MAKING PIZZA BATCH state
+Pizza maker_2_batch_2_pizza_1 produced
+maker 2 Waiting for shelf 1 to be free
+Pizza maker_2_batch_2_pizza_1 placed on shelf 1
+Pizza maker_2_batch_2_pizza_2 produced
+Pizza maker_2_batch_2_pizza_2 placed on shelf 1
+Pizza maker_2_batch_2_pizza_3 produced
+Pizza maker_2_batch_2_pizza_3 placed on shelf 1
+Pizza maker_2_batch_2_pizza_4 produced
+Pizza maker_2_batch_2_pizza_4 placed on shelf 1
+Pizza maker_2_batch_2_pizza_5 produced
+Pizza maker_2_batch_2_pizza_5 placed on shelf 1
+Pizza maker_2_batch_2_pizza_6 produced
+Pizza maker_2_batch_2_pizza_6 placed on shelf 1
+Pizza maker_2_batch_2_pizza_7 produced
+Pizza maker_2_batch_2_pizza_7 placed on shelf 1
+Pizza maker_2_batch_2_pizza_8 produced
+Pizza maker_2_batch_2_pizza_8 placed on shelf 1
+Pizza maker_2_batch_2_pizza_9 produced
+Pizza maker_2_batch_2_pizza_9 placed on shelf 1
+Pizza maker_2_batch_2_pizza_10 produced
+Pizza maker_2_batch_2_pizza_10 placed on shelf 1
+maker 2 entering NAP state
+maker 2 entering MAKING PIZZA BATCH state
+Pizza maker_2_batch_3_pizza_1 produced
+maker 2 Waiting for shelf 4 to be free
+Pizza maker_2_batch_3_pizza_1 placed on shelf 4
+Pizza maker_2_batch_3_pizza_2 produced
+Pizza maker_2_batch_3_pizza_2 placed on shelf 4
+Pizza maker_2_batch_3_pizza_3 produced
+Pizza maker_2_batch_3_pizza_3 placed on shelf 4
+Pizza maker_2_batch_3_pizza_4 produced
+Pizza maker_2_batch_3_pizza_4 placed on shelf 4
+Pizza maker_2_batch_3_pizza_5 produced
+Pizza maker_2_batch_3_pizza_5 placed on shelf 4
+Pizza maker_2_batch_3_pizza_6 produced
+Pizza maker_2_batch_3_pizza_6 placed on shelf 4
+Pizza maker_2_batch_3_pizza_7 produced
+Pizza maker_2_batch_3_pizza_7 placed on shelf 4
+Pizza maker_2_batch_3_pizza_8 produced
+Pizza maker_2_batch_3_pizza_8 placed on shelf 4
+Pizza maker_2_batch_3_pizza_9 produced
+Pizza maker_2_batch_3_pizza_9 placed on shelf 4
+Pizza maker_2_batch_3_pizza_10 produced
+Pizza maker_2_batch_3_pizza_10 placed on shelf 4
+maker 2 entering NAP state
+maker 2 entering MAKING PIZZA BATCH state
+Pizza maker_2_batch_4_pizza_1 produced
+maker 2 Waiting for shelf 3 to be free
+Pizza maker_2_batch_4_pizza_1 placed on shelf 3
+Pizza maker_2_batch_4_pizza_2 produced
+Pizza maker_2_batch_4_pizza_2 placed on shelf 3
+Pizza maker_2_batch_4_pizza_3 produced
+Pizza maker_2_batch_4_pizza_3 placed on shelf 3
+Pizza maker_2_batch_4_pizza_4 produced
+Pizza maker_2_batch_4_pizza_4 placed on shelf 3
+Pizza maker_2_batch_4_pizza_5 produced
+Pizza maker_2_batch_4_pizza_5 placed on shelf 3
+Pizza maker_2_batch_4_pizza_6 produced
+Pizza maker_2_batch_4_pizza_6 placed on shelf 3
+Pizza maker_2_batch_4_pizza_7 produced
+Pizza maker_2_batch_4_pizza_7 placed on shelf 3
+Pizza maker_2_batch_4_pizza_8 produced
+Pizza maker_2_batch_4_pizza_8 placed on shelf 3
+Pizza maker_2_batch_4_pizza_9 produced
+Pizza maker_2_batch_4_pizza_9 placed on shelf 3
+Pizza maker_2_batch_4_pizza_10 produced
+Pizza maker_2_batch_4_pizza_10 placed on shelf 3
+maker 2 entering NAP state
+maker 2 entering MAKING PIZZA BATCH state
+Pizza maker_2_batch_5_pizza_1 produced
+maker 2 Waiting for shelf 2 to be free
+Pizza maker_2_batch_5_pizza_1 placed on shelf 2
+Pizza maker_2_batch_5_pizza_2 produced
+Pizza maker_2_batch_5_pizza_2 placed on shelf 2
+Pizza maker_2_batch_5_pizza_3 produced
+Pizza maker_2_batch_5_pizza_3 placed on shelf 2
+Pizza maker_2_batch_5_pizza_4 produced
+Pizza maker_2_batch_5_pizza_4 placed on shelf 2
+Pizza maker_2_batch_5_pizza_5 produced
+Pizza maker_2_batch_5_pizza_5 placed on shelf 2
+Pizza maker_2_batch_5_pizza_6 produced
+Pizza maker_2_batch_5_pizza_6 placed on shelf 2
+Pizza maker_2_batch_5_pizza_7 produced
+Pizza maker_2_batch_5_pizza_7 placed on shelf 2
+Pizza maker_2_batch_5_pizza_8 produced
+Pizza maker_2_batch_5_pizza_8 placed on shelf 2
+Pizza maker_2_batch_5_pizza_9 produced
+Pizza maker_2_batch_5_pizza_9 placed on shelf 2
+Pizza maker_2_batch_5_pizza_10 produced
+Pizza maker_2_batch_5_pizza_10 placed on shelf 2
+maker 2 entering NAP state
+maker 2 entering MAKING PIZZA BATCH state
+Pizza maker_2_batch_6_pizza_1 produced
+maker 2 Waiting for shelf 4 to be free
+Pizza maker_2_batch_6_pizza_1 placed on shelf 4
+Pizza maker_2_batch_6_pizza_2 produced
+Pizza maker_2_batch_6_pizza_2 placed on shelf 4
+Pizza maker_2_batch_6_pizza_3 produced
+Pizza maker_2_batch_6_pizza_3 placed on shelf 4
+Pizza maker_2_batch_6_pizza_4 produced
+Pizza maker_2_batch_6_pizza_4 placed on shelf 4
+Pizza maker_2_batch_6_pizza_5 produced
+Pizza maker_2_batch_6_pizza_5 placed on shelf 4
+Pizza maker_2_batch_6_pizza_6 produced
+Pizza maker_2_batch_6_pizza_6 placed on shelf 4
+Pizza maker_2_batch_6_pizza_7 produced
+Pizza maker_2_batch_6_pizza_7 placed on shelf 4
+Pizza maker_2_batch_6_pizza_8 produced
+Pizza maker_2_batch_6_pizza_8 placed on shelf 4
+Pizza maker_2_batch_6_pizza_9 produced
+Pizza maker_2_batch_6_pizza_9 placed on shelf 4
+Pizza maker_2_batch_6_pizza_10 produced
+Pizza maker_2_batch_6_pizza_10 placed on shelf 4
+maker 2 entering NAP state
+maker 2 entering MAKING PIZZA BATCH state
+Pizza maker_2_batch_7_pizza_1 produced
+maker 2 Waiting for shelf 2 to be free
+Pizza maker_2_batch_7_pizza_1 placed on shelf 2
+Pizza maker_2_batch_7_pizza_2 produced
+Pizza maker_2_batch_7_pizza_2 placed on shelf 2
+Pizza maker_2_batch_7_pizza_3 produced
+Pizza maker_2_batch_7_pizza_3 placed on shelf 2
+Pizza maker_2_batch_7_pizza_4 produced
+Pizza maker_2_batch_7_pizza_4 placed on shelf 2
+Pizza maker_2_batch_7_pizza_5 produced
+Pizza maker_2_batch_7_pizza_5 placed on shelf 2
+Pizza maker_2_batch_7_pizza_6 produced
+Pizza maker_2_batch_7_pizza_6 placed on shelf 2
+Pizza maker_2_batch_7_pizza_7 produced
+maker 2 Waiting for shelf 3 to be free
+Pizza maker_2_batch_7_pizza_7 placed on shelf 3
+Pizza maker_2_batch_7_pizza_8 produced
+Pizza maker_2_batch_7_pizza_8 placed on shelf 3
+Pizza maker_2_batch_7_pizza_9 produced
+Pizza maker_2_batch_7_pizza_9 placed on shelf 3
+Pizza maker_2_batch_7_pizza_10 produced
+Pizza maker_2_batch_7_pizza_10 placed on shelf 3
+maker 2 entering NAP state
+maker 2 entering MAKING PIZZA BATCH state
+Pizza maker_2_batch_8_pizza_1 produced
+maker 2 Waiting for shelf 4 to be free
+Pizza maker_2_batch_8_pizza_1 placed on shelf 4
+Pizza maker_2_batch_8_pizza_2 produced
+Pizza maker_2_batch_8_pizza_2 placed on shelf 4
+Pizza maker_2_batch_8_pizza_3 produced
+Pizza maker_2_batch_8_pizza_3 placed on shelf 4
+Pizza maker_2_batch_8_pizza_4 produced
+Pizza maker_2_batch_8_pizza_4 placed on shelf 4
+Pizza maker_2_batch_8_pizza_5 produced
+Pizza maker_2_batch_8_pizza_5 placed on shelf 4
+Pizza maker_2_batch_8_pizza_6 produced
+Pizza maker_2_batch_8_pizza_6 placed on shelf 4
+Pizza maker_2_batch_8_pizza_7 produced
+Pizza maker_2_batch_8_pizza_7 placed on shelf 4
+Pizza maker_2_batch_8_pizza_8 produced
+Pizza maker_2_batch_8_pizza_8 placed on shelf 4
+Pizza maker_2_batch_8_pizza_9 produced
+Pizza maker_2_batch_8_pizza_9 placed on shelf 4
+Pizza maker_2_batch_8_pizza_10 produced
+Pizza maker_2_batch_8_pizza_10 placed on shelf 4
+maker 2 entering NAP state
+maker 2 entering MAKING PIZZA BATCH state
+Pizza maker_2_batch_9_pizza_1 produced
+maker 2 Waiting for shelf 3 to be free
+Pizza maker_2_batch_9_pizza_1 placed on shelf 3
+Pizza maker_2_batch_9_pizza_2 produced
+Pizza maker_2_batch_9_pizza_2 placed on shelf 3
+Pizza maker_2_batch_9_pizza_3 produced
+Pizza maker_2_batch_9_pizza_3 placed on shelf 3
+Pizza maker_2_batch_9_pizza_4 produced
+Pizza maker_2_batch_9_pizza_4 placed on shelf 3
+Pizza maker_2_batch_9_pizza_5 produced
+Pizza maker_2_batch_9_pizza_5 placed on shelf 3
+Pizza maker_2_batch_9_pizza_6 produced
+Pizza maker_2_batch_9_pizza_6 placed on shelf 3
+Pizza maker_2_batch_9_pizza_7 produced
+Pizza maker_2_batch_9_pizza_7 placed on shelf 3
+Pizza maker_2_batch_9_pizza_8 produced
+Pizza maker_2_batch_9_pizza_8 placed on shelf 3
+Pizza maker_2_batch_9_pizza_9 produced
+Pizza maker_2_batch_9_pizza_9 placed on shelf 3
+Pizza maker_2_batch_9_pizza_10 produced
+Pizza maker_2_batch_9_pizza_10 placed on shelf 3
+maker 2 entering NAP state
+maker 2 entering MAKING PIZZA BATCH state
+Pizza maker_2_batch_10_pizza_1 produced
+maker 2 Waiting for shelf 2 to be free
+Pizza maker_2_batch_10_pizza_1 placed on shelf 2
+Pizza maker_2_batch_10_pizza_2 produced
+Pizza maker_2_batch_10_pizza_2 placed on shelf 2
+Pizza maker_2_batch_10_pizza_3 produced
+Pizza maker_2_batch_10_pizza_3 placed on shelf 2
+Pizza maker_2_batch_10_pizza_4 produced
+Pizza maker_2_batch_10_pizza_4 placed on shelf 2
+Pizza maker_2_batch_10_pizza_5 produced
+Pizza maker_2_batch_10_pizza_5 placed on shelf 2
+Pizza maker_2_batch_10_pizza_6 produced
+Pizza maker_2_batch_10_pizza_6 placed on shelf 2
+Pizza maker_2_batch_10_pizza_7 produced
+Pizza maker_2_batch_10_pizza_7 placed on shelf 2
+Pizza maker_2_batch_10_pizza_8 produced
+Pizza maker_2_batch_10_pizza_8 placed on shelf 2
+Pizza maker_2_batch_10_pizza_9 produced
+Pizza maker_2_batch_10_pizza_9 placed on shelf 2
+Pizza maker_2_batch_10_pizza_10 produced
+Pizza maker_2_batch_10_pizza_10 placed on shelf 2
+maker 2 entering NAP state
+maker 2 entering MAKING PIZZA BATCH state
+Pizza maker_2_batch_11_pizza_1 produced
+maker 2 Waiting for shelf 3 to be free
+Pizza maker_2_batch_11_pizza_1 placed on shelf 3
+Pizza maker_2_batch_11_pizza_2 produced
+Pizza maker_2_batch_11_pizza_2 placed on shelf 3
+Pizza maker_2_batch_11_pizza_3 produced
+Pizza maker_2_batch_11_pizza_3 placed on shelf 3
+Pizza maker_2_batch_11_pizza_4 produced
+Pizza maker_2_batch_11_pizza_4 placed on shelf 3
+Pizza maker_2_batch_11_pizza_5 produced
+Pizza maker_2_batch_11_pizza_5 placed on shelf 3
+Pizza maker_2_batch_11_pizza_6 produced
+Pizza maker_2_batch_11_pizza_6 placed on shelf 3
+Pizza maker_2_batch_11_pizza_7 produced
+Pizza maker_2_batch_11_pizza_7 placed on shelf 3
+Pizza maker_2_batch_11_pizza_8 produced
+Pizza maker_2_batch_11_pizza_8 placed on shelf 3
+Pizza maker_2_batch_11_pizza_9 produced
+Pizza maker_2_batch_11_pizza_9 placed on shelf 3
+Pizza maker_2_batch_11_pizza_10 produced
+Pizza maker_2_batch_11_pizza_10 placed on shelf 3
+maker 2 entering NAP state
+maker 2 entering MAKING PIZZA BATCH state
+Pizza maker_2_batch_12_pizza_1 produced
+maker 2 Waiting for shelf 2 to be free
+Pizza maker_2_batch_12_pizza_1 placed on shelf 2
+Pizza maker_2_batch_12_pizza_2 produced
+Pizza maker_2_batch_12_pizza_2 placed on shelf 2
+Pizza maker_2_batch_12_pizza_3 produced
+Pizza maker_2_batch_12_pizza_3 placed on shelf 2
+Pizza maker_2_batch_12_pizza_4 produced
+Pizza maker_2_batch_12_pizza_4 placed on shelf 2
+Pizza maker_2_batch_12_pizza_5 produced
+Pizza maker_2_batch_12_pizza_5 placed on shelf 2
+Pizza maker_2_batch_12_pizza_6 produced
+Pizza maker_2_batch_12_pizza_6 placed on shelf 2
+Pizza maker_2_batch_12_pizza_7 produced
+Pizza maker_2_batch_12_pizza_7 placed on shelf 2
+Pizza maker_2_batch_12_pizza_8 produced
+Pizza maker_2_batch_12_pizza_8 placed on shelf 2
+Pizza maker_2_batch_12_pizza_9 produced
+Pizza maker_2_batch_12_pizza_9 placed on shelf 2
+Pizza maker_2_batch_12_pizza_10 produced
+Pizza maker_2_batch_12_pizza_10 placed on shelf 2
+maker 2 entering NAP state
+maker 2 entering MAKING PIZZA BATCH state
+Pizza maker_2_batch_13_pizza_1 produced
+maker 2 Waiting for shelf 4 to be free
+Pizza maker_2_batch_13_pizza_1 placed on shelf 4
+Pizza maker_2_batch_13_pizza_2 produced
+Pizza maker_2_batch_13_pizza_2 placed on shelf 4
+Pizza maker_2_batch_13_pizza_3 produced
+Pizza maker_2_batch_13_pizza_3 placed on shelf 4
+Pizza maker_2_batch_13_pizza_4 produced
+Pizza maker_2_batch_13_pizza_4 placed on shelf 4
+Pizza maker_2_batch_13_pizza_5 produced
+Pizza maker_2_batch_13_pizza_5 placed on shelf 4
+Pizza maker_2_batch_13_pizza_6 produced
+Pizza maker_2_batch_13_pizza_6 placed on shelf 4
+Pizza maker_2_batch_13_pizza_7 produced
+Pizza maker_2_batch_13_pizza_7 placed on shelf 4
+Pizza maker_2_batch_13_pizza_8 produced
+Pizza maker_2_batch_13_pizza_8 placed on shelf 4
+Pizza maker_2_batch_13_pizza_9 produced
+Pizza maker_2_batch_13_pizza_9 placed on shelf 4
+Pizza maker_2_batch_13_pizza_10 produced
+Pizza maker_2_batch_13_pizza_10 placed on shelf 4
+maker 2 entering NAP state
+maker 2 entering MAKING PIZZA BATCH state
+Pizza maker_2_batch_14_pizza_1 produced
+maker 2 Waiting for shelf 2 to be free
+Pizza maker_2_batch_14_pizza_1 placed on shelf 2
+Pizza maker_2_batch_14_pizza_2 produced
+Pizza maker_2_batch_14_pizza_2 placed on shelf 2
+Pizza maker_2_batch_14_pizza_3 produced
+Pizza maker_2_batch_14_pizza_3 placed on shelf 2
+Pizza maker_2_batch_14_pizza_4 produced
+Pizza maker_2_batch_14_pizza_4 placed on shelf 2
+Pizza maker_2_batch_14_pizza_5 produced
+Pizza maker_2_batch_14_pizza_5 placed on shelf 2
+Pizza maker_2_batch_14_pizza_6 produced
+Pizza maker_2_batch_14_pizza_6 placed on shelf 2
+Pizza maker_2_batch_14_pizza_7 produced
+Pizza maker_2_batch_14_pizza_7 placed on shelf 2
+Pizza maker_2_batch_14_pizza_8 produced
+Pizza maker_2_batch_14_pizza_8 placed on shelf 2
+Pizza maker_2_batch_14_pizza_9 produced
+Pizza maker_2_batch_14_pizza_9 placed on shelf 2
+Pizza maker_2_batch_14_pizza_10 produced
+Pizza maker_2_batch_14_pizza_10 placed on shelf 2
+maker 2 entering NAP state
+maker 2 entering MAKING PIZZA BATCH state
+Pizza maker_2_batch_15_pizza_1 produced
+maker 2 Waiting for shelf 1 to be free
+Pizza maker_2_batch_15_pizza_1 placed on shelf 1
+Pizza maker_2_batch_15_pizza_2 produced
+Pizza maker_2_batch_15_pizza_2 placed on shelf 1
+Pizza maker_2_batch_15_pizza_3 produced
+Pizza maker_2_batch_15_pizza_3 placed on shelf 1
+Pizza maker_2_batch_15_pizza_4 produced
+Pizza maker_2_batch_15_pizza_4 placed on shelf 1
+Pizza maker_2_batch_15_pizza_5 produced
+Pizza maker_2_batch_15_pizza_5 placed on shelf 1
+Pizza maker_2_batch_15_pizza_6 produced
+Pizza maker_2_batch_15_pizza_6 placed on shelf 1
+Pizza maker_2_batch_15_pizza_7 produced
+Pizza maker_2_batch_15_pizza_7 placed on shelf 1
+Pizza maker_2_batch_15_pizza_8 produced
+Pizza maker_2_batch_15_pizza_8 placed on shelf 1
+Pizza maker_2_batch_15_pizza_9 produced
+Pizza maker_2_batch_15_pizza_9 placed on shelf 1
+Pizza maker_2_batch_15_pizza_10 produced
+Pizza maker_2_batch_15_pizza_10 placed on shelf 1
+maker 2 entering NAP state
+maker 2 entering MAKING PIZZA BATCH state
+Pizza maker_2_batch_16_pizza_1 produced
+maker 2 Waiting for shelf 1 to be free
+Pizza maker_2_batch_16_pizza_1 placed on shelf 1
+Pizza maker_2_batch_16_pizza_2 produced
+Pizza maker_2_batch_16_pizza_2 placed on shelf 1
+Pizza maker_2_batch_16_pizza_3 produced
+Pizza maker_2_batch_16_pizza_3 placed on shelf 1
+Pizza maker_2_batch_16_pizza_4 produced
+Pizza maker_2_batch_16_pizza_4 placed on shelf 1
+Pizza maker_2_batch_16_pizza_5 produced
+Pizza maker_2_batch_16_pizza_5 placed on shelf 1
+Pizza maker_2_batch_16_pizza_6 produced
+Pizza maker_2_batch_16_pizza_6 placed on shelf 1
+Pizza maker_2_batch_16_pizza_7 produced
+Pizza maker_2_batch_16_pizza_7 placed on shelf 1
+Pizza maker_2_batch_16_pizza_8 produced
+Pizza maker_2_batch_16_pizza_8 placed on shelf 1
+Pizza maker_2_batch_16_pizza_9 produced
+Pizza maker_2_batch_16_pizza_9 placed on shelf 1
+Pizza maker_2_batch_16_pizza_10 produced
+Pizza maker_2_batch_16_pizza_10 placed on shelf 1
+maker 2 entering NAP state
+maker 2 entering MAKING PIZZA BATCH state
+Pizza maker_2_batch_17_pizza_1 produced
+maker 2 Waiting for shelf 2 to be free
+Pizza maker_2_batch_17_pizza_1 placed on shelf 2
+Pizza maker_2_batch_17_pizza_2 produced
+Pizza maker_2_batch_17_pizza_2 placed on shelf 2
+Pizza maker_2_batch_17_pizza_3 produced
+Pizza maker_2_batch_17_pizza_3 placed on shelf 2
+Pizza maker_2_batch_17_pizza_4 produced
+Pizza maker_2_batch_17_pizza_4 placed on shelf 2
+Pizza maker_2_batch_17_pizza_5 produced
+Pizza maker_2_batch_17_pizza_5 placed on shelf 2
+Pizza maker_2_batch_17_pizza_6 produced
+Pizza maker_2_batch_17_pizza_6 placed on shelf 2
+Pizza maker_2_batch_17_pizza_7 produced
+Pizza maker_2_batch_17_pizza_7 placed on shelf 2
+Pizza maker_2_batch_17_pizza_8 produced
+Pizza maker_2_batch_17_pizza_8 placed on shelf 2
+Pizza maker_2_batch_17_pizza_9 produced
+Pizza maker_2_batch_17_pizza_9 placed on shelf 2
+Pizza maker_2_batch_17_pizza_10 produced
+Pizza maker_2_batch_17_pizza_10 placed on shelf 2
+maker 2 entering NAP state
+maker 2 entering MAKING PIZZA BATCH state
+Pizza maker_2_batch_18_pizza_1 produced
+maker 2 Waiting for shelf 1 to be free
+Pizza maker_2_batch_18_pizza_1 placed on shelf 1
+Pizza maker_2_batch_18_pizza_2 produced
+Pizza maker_2_batch_18_pizza_2 placed on shelf 1
+Pizza maker_2_batch_18_pizza_3 produced
+Pizza maker_2_batch_18_pizza_3 placed on shelf 1
+Pizza maker_2_batch_18_pizza_4 produced
+Pizza maker_2_batch_18_pizza_4 placed on shelf 1
+Pizza maker_2_batch_18_pizza_5 produced
+Pizza maker_2_batch_18_pizza_5 placed on shelf 1
+Pizza maker_2_batch_18_pizza_6 produced
+Pizza maker_2_batch_18_pizza_6 placed on shelf 1
+Pizza maker_2_batch_18_pizza_7 produced
+Pizza maker_2_batch_18_pizza_7 placed on shelf 1
+Pizza maker_2_batch_18_pizza_8 produced
+Pizza maker_2_batch_18_pizza_8 placed on shelf 1
+Pizza maker_2_batch_18_pizza_9 produced
+Pizza maker_2_batch_18_pizza_9 placed on shelf 1
+Pizza maker_2_batch_18_pizza_10 produced
+Pizza maker_2_batch_18_pizza_10 placed on shelf 1
+maker 2 entering NAP state
+maker 2 entering MAKING PIZZA BATCH state
+Pizza maker_2_batch_19_pizza_1 produced
+maker 2 Waiting for shelf 3 to be free
+Pizza maker_2_batch_19_pizza_1 placed on shelf 3
+Pizza maker_2_batch_19_pizza_2 produced
+Pizza maker_2_batch_19_pizza_2 placed on shelf 3
+Pizza maker_2_batch_19_pizza_3 produced
+Pizza maker_2_batch_19_pizza_3 placed on shelf 3
+Pizza maker_2_batch_19_pizza_4 produced
+Pizza maker_2_batch_19_pizza_4 placed on shelf 3
+Pizza maker_2_batch_19_pizza_5 produced
+Pizza maker_2_batch_19_pizza_5 placed on shelf 3
+Pizza maker_2_batch_19_pizza_6 produced
+Pizza maker_2_batch_19_pizza_6 placed on shelf 3
+Pizza maker_2_batch_19_pizza_7 produced
+Pizza maker_2_batch_19_pizza_7 placed on shelf 3
+Pizza maker_2_batch_19_pizza_8 produced
+Pizza maker_2_batch_19_pizza_8 placed on shelf 3
+Pizza maker_2_batch_19_pizza_9 produced
+Pizza maker_2_batch_19_pizza_9 placed on shelf 3
+Pizza maker_2_batch_19_pizza_10 produced
+Pizza maker_2_batch_19_pizza_10 placed on shelf 3
+maker 2 entering NAP state
+maker 2 entering MAKING PIZZA BATCH state
+Pizza maker_2_batch_20_pizza_1 produced
+maker 2 Waiting for shelf 2 to be free
+Pizza maker_2_batch_20_pizza_1 placed on shelf 2
+Pizza maker_2_batch_20_pizza_2 produced
+Pizza maker_2_batch_20_pizza_2 placed on shelf 2
+Pizza maker_2_batch_20_pizza_3 produced
+Pizza maker_2_batch_20_pizza_3 placed on shelf 2
+Pizza maker_2_batch_20_pizza_4 produced
+Pizza maker_2_batch_20_pizza_4 placed on shelf 2
+Pizza maker_2_batch_20_pizza_5 produced
+Pizza maker_2_batch_20_pizza_5 placed on shelf 2
+Pizza maker_2_batch_20_pizza_6 produced
+Pizza maker_2_batch_20_pizza_6 placed on shelf 2
+Pizza maker_2_batch_20_pizza_7 produced
+Pizza maker_2_batch_20_pizza_7 placed on shelf 2
+Pizza maker_2_batch_20_pizza_8 produced
+Pizza maker_2_batch_20_pizza_8 placed on shelf 2
+Pizza maker_2_batch_20_pizza_9 produced
+Pizza maker_2_batch_20_pizza_9 placed on shelf 2
+Pizza maker_2_batch_20_pizza_10 produced
+maker 2 Waiting for shelf 3 to be free
+Pizza maker_2_batch_20_pizza_10 placed on shelf 3
+maker 2 entering NAP state
+Maker 2 exitting
